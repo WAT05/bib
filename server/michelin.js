@@ -1,17 +1,68 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 
+
+module.exports.scrapeAllBib = async () => {
+  const urlList = await parseURLList();
+  var restList = {table:[]};
+  let i = 1;
+  for (url of urlList) {
+    restList.table.push(await this.scrapeURL(url));
+    console.log(url + "\n" + i + "\n")
+    i++;
+  }
+  return restList;
+};
+
+const parseURLList = async () => {
+  const urlList = [];
+  for (let i = 1; i <= 15; i++){x 
+    const response = await axios("https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/" + i);
+    const { data, status } = response;
+    const $ = cheerio.load(data);
+    $(".link").each((index, value) => {
+      urlList.push("https://guide.michelin.com" + $(value).attr('href'));
+    });
+  }
+  return urlList;
+};
+/*
+const scrapeURL = async URL => {
+  const response = await axios(URL);
+  const {data, status} = response;
+  return await parseURL;
+};*/
+
 /**
  * Parse webpage restaurant
  * @param  {String} data - html response
  * @return {Object} restaurant
  */
-const parse = data => {
-  const $ = cheerio.load(data);
-  const name = $('.section-main h2.restaurant-details__heading--title').text();
-  const experience = $('#experience-section > ul > li:nth-child(2)').text();
 
-  return {name, experience};
+  const parseURL = $ => {
+    //const $ = cheerio.load(data);
+    const name = $('body > main > div.restaurant-details > div.container > div > div.col-xl-4.order-xl-8.col-lg-5.order-lg-7.restaurant-details__aside > div.restaurant-details__heading.d-lg-none > h2').text();
+    var adress = $('.fa-map-marker-alt').closest('li').text();
+    adress = adress.slice(0, adress.length / 2);
+    const priceAndType = $('body > main > div.restaurant-details > div.container > div > div.col-xl-4.order-xl-8.col-lg-5.order-lg-7.restaurant-details__aside > div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text();
+    const price = priceAndType.split('•')[0].replace(/ /gi, '').replace(/\n/gi, '');
+    const type = priceAndType.split('•')[1].replace(/\n/gi, '').trim();
+
+    const phone = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div:nth-child(1) > div > div > a').attr('href');
+    const website = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div.collapse__block-item.link-item > a').attr('href');
+    const experience = $('#experience-section > ul > li:nth-child(2)').text().replace(/ó/gi, '').replace(/ò/gi, '').replace(/\n/gi, '').trim();
+
+    const restaurant = {
+      name: name,
+      adress: adress,
+      price: price,
+      type: type,
+      phone: phone,
+      website:website,
+      experience: experience
+    };
+    console.log(restaurant.name + " " + restaurant.adress + "\n");
+    return restaurant;
 };
 
 /**
@@ -19,23 +70,16 @@ const parse = data => {
  * @param  {String}  url
  * @return {Object} restaurant
  */
-module.exports.scrapeRestaurant = async url => {
+module.exports.scrapeURL = async url => {
   const response = await axios(url);
   const {data, status} = response;
+  const $ = cheerio.load(data);
 
   if (status >= 200 && status < 300) {
-    return parse(data);
+    return parseURL($);
   }
 
   console.error(status);
 
   return null;
-};
-
-/**
- * Get all France located Bib Gourmand restaurants
- * @return {Array} restaurants
- */
-module.exports.get = () => {
-  return [];
 };
