@@ -1,0 +1,29 @@
+h1{
+    color: #620;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height:5500px;
+    width: 300px;
+    margin: 10px;
+    margin-left: 60px;
+    text-align: center;
+    font-family: arial;
+    border-radius: 5px;
+    float:left;
+  }
+  
+  .name{
+      height : 60px;
+  }
+  .address {
+      height : 60px;
+    color: grey;
+    font-size: 18px;
+  }
+  .img{
+  height:250px;
+  border-radius : 5px 5px 0 0;
+  }
+  

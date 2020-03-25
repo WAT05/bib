@@ -1,0 +1,47 @@
+h1{
+    color: #620;
+    padding-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    height:550px;
+    width: 340px;
+    margin: 10px;
+    margin-left: 60px;
+    text-align: center;
+    font-family: arial;
+    border-radius: 50px;
+    float:left;
+    display: table-column;
+  }
+
+  a:link, a:visited {
+    background-color:rgb(61, 143, 64);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  a:link:hover, a:active {
+    background-color: rgb(39, 94, 41);
+  }
+
+
+  p{
+    color: rgb(73, 73, 73);
+    font-size: 18px;
+  }
+
+  .name{
+      height : 60px;
+  }
+  .address {
+    color: grey;
+    font-size: 18px;
+  }
+  .img{
+  height:250px;
+  border-radius : 50px 50px 0 0;
+  }
+  

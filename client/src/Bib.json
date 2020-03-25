@@ -5,7 +5,7 @@
         "adress": "3 rue Jean-Jacques-Rousseau, Grenoble, 38000, France",
         "price": "23-39EUR",
         "type": "Cuisine actuelle",
-        "phone": "tel:+33 4 76 14 86 75",
+        "phone": "04 76 14 86 75",
         "website": "http://www.restaurantlerousseau.fr",
         "experience": "Assez confortable"
     },
@@ -15,7 +15,7 @@
         "adress": "330 rue des Auberges, Saint-Savin, 38300, France",
         "price": "32-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 74 28 92 57",
+        "phone": "04 74 28 92 57",
         "website": "http://www.les3faisans.fr",
         "experience": "Confortable"
     },
@@ -25,7 +25,7 @@
         "adress": "20 rue Porta, Albi, 81000, France",
         "price": "18-53EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 46 20 10",
+        "phone": "05 63 46 20 10",
         "website": "http://www.latabledusommelier.com",
         "experience": "Assez confortable"
     },
@@ -35,7 +35,7 @@
         "adress": "20 rue du Maréchal-Leclerc, Dinard, 35800, France",
         "price": "18-52EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 99 46 85 95",
+        "phone": "02 99 46 85 95",
         "website": "http://www.au-bouchon-breton.com",
         "experience": "Assez confortable"
     },
@@ -45,7 +45,7 @@
         "adress": "Grande-Rue, Yvoire, 74140, France",
         "price": "25-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 72 80 32",
+        "phone": "04 50 72 80 32",
         "website": "http://www.lesjardinsduleman.com",
         "experience": "Confortable",
         "maitre": true
@@ -56,7 +56,7 @@
         "adress": "24 rue Gabriel-Vicaire, Perros-Guirec, 22700, France",
         "price": "33-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 96 49 05 96",
+        "phone": "02 96 49 05 96",
         "website": "http://www.lamaisondemarie-laclarte.bzh",
         "experience": "Confortable"
     },
@@ -66,7 +66,7 @@
         "adress": "place de l'Église, Plaisians, 26170, France",
         "price": "30-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 75 28 01 17",
+        "phone": "04 75 28 01 17",
         "experience": "Assez confortable"
     },
     {
@@ -75,7 +75,7 @@
         "adress": "70 route de Satillieu, Vaudevant, 07410, France",
         "price": "28-39EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 06 08 99",
+        "phone": "04 75 06 08 99",
         "website": "http://www.restaurant-la-recre.com",
         "experience": "Assez confortable"
     },
@@ -85,7 +85,7 @@
         "adress": "Immeuble Les Merisiers, Méribel, 73550, France",
         "price": "33-80EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 79 22 46 08",
+        "phone": "04 79 22 46 08",
         "experience": "Assez confortable. Nos établissements de charme."
     },
     {
@@ -94,7 +94,7 @@
         "adress": "16 rue de la Sienne, Heugueville-sur-Sienne, 50200, France",
         "price": "33-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 33 47 19 61",
+        "phone": "02 33 47 19 61",
         "experience": "Assez confortable"
     },
     {
@@ -103,7 +103,7 @@
         "adress": "15 rue  Amiral-Roussin, Dijon, 21000, France",
         "price": "18-35EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 80 30 03 85",
+        "phone": "03 80 30 03 85",
         "experience": "Assez confortable"
     },
     {
@@ -112,7 +112,7 @@
         "adress": "57 route de Paris, Champcevinel, 24750, France",
         "price": "33-78EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 09 53 32",
+        "phone": "05 53 09 53 32",
         "website": "http://www.table-pouyaud.fr",
         "experience": "Confortable"
     },
@@ -122,7 +122,7 @@
         "adress": "7 avenue du Général-Giraud, Reims, 51100, France",
         "price": "31-81EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 26 24 90 90",
+        "phone": "03 26 24 90 90",
         "website": "http://www.lescrayeres.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -132,7 +132,7 @@
         "adress": "19 rue de la République, Neuillé-le-Lierre, 37380, France",
         "price": "33-85EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 47 52 95 05",
+        "phone": "02 47 52 95 05",
         "website": "http://www.auberge-brenne.com",
         "experience": "Confortable"
     },
@@ -142,7 +142,7 @@
         "adress": "2 rue de la Poste, Chagny, 71150, France",
         "price": "33-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 85 87 08 67",
+        "phone": "03 85 87 08 67",
         "website": "http://www.pierrejean-restaurant.fr",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -152,7 +152,7 @@
         "adress": "59 rue Georges-Bonnac, Bordeaux, 33000, France",
         "price": "23-52EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 5 56 98 43 08",
+        "phone": "05 56 98 43 08",
         "experience": "Assez confortable"
     },
     {
@@ -161,7 +161,7 @@
         "adress": "14 place de l'Hôtel-de-Ville, Noyers, 89310, France",
         "price": "30-33EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 86 82 82 16",
+        "phone": "03 86 82 82 16",
         "website": "http://www.maison-paillot.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -171,7 +171,7 @@
         "adress": "49 rue de la Madeleine, Beauvais, 60000, France",
         "price": "29-43EUR",
         "type": "Cuisine vietnamienne",
-        "phone": "tel:+33 3 44 45 39 83",
+        "phone": "03 44 45 39 83",
         "experience": "Assez confortable. Nos établissements de charme."
     },
     {
@@ -180,7 +180,7 @@
         "adress": "2 route de Bordeaux, Orcines, 63870, France",
         "price": "33-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 62 26 24",
+        "phone": "04 73 62 26 24",
         "website": "http://www.laubrieres.com",
         "experience": "Confortable"
     },
@@ -190,7 +190,7 @@
         "adress": "2 rue Richer, Paris, 75009, France",
         "price": "36-51EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 67 29 18 43",
+        "phone": "09 67 29 18 43",
         "website": "http://www.lericher.com",
         "experience": "Assez confortable"
     },
@@ -200,7 +200,7 @@
         "adress": "9 rue Pierre Bérégovoy, Charleville-Mézières, 08000, France",
         "price": "31-51EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 24 57 05 64",
+        "phone": "03 24 57 05 64",
         "website": "http://www.latabledarthur.fr",
         "experience": "Assez confortable"
     },
@@ -210,7 +210,7 @@
         "adress": "rue d'Athènes, à Bourran, Rodez, 12000, France",
         "price": "26-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 68 40 07",
+        "phone": "05 65 68 40 07",
         "website": "http://www.restaurant-acropolis.com",
         "experience": "Confortable"
     },
@@ -220,7 +220,7 @@
         "adress": "381 route de Plascassier, Grasse, 06130, France",
         "price": "28-33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 93 60 14 44",
+        "phone": "04 93 60 14 44",
         "website": "http://www.lougolin.com",
         "experience": "Assez confortable"
     },
@@ -230,7 +230,7 @@
         "adress": "La Charmette, Valmorel, 73260, France",
         "price": "32-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 79 09 81 80",
+        "phone": "04 79 09 81 80",
         "website": "http://www.oxygene-hotel.fr",
         "experience": "Confortable"
     },
@@ -240,7 +240,7 @@
         "adress": "59 rue d'Isly, Lille, 59000, France",
         "price": "25-29EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 86 37 22 50",
+        "phone": "09 86 37 22 50",
         "website": "http://www.solange-restaurant.fr",
         "experience": "Assez confortable"
     },
@@ -250,7 +250,7 @@
         "adress": "1 avenue Marx-Dormoy, Bourges, 18000, France",
         "price": "18-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 48 65 42 44",
+        "phone": "02 48 65 42 44",
         "website": "http://www.restaurant-lebeauvoir.com",
         "experience": "ô                                    Très confortable"
     },
@@ -260,7 +260,7 @@
         "adress": "6 rue du Caire, Lempdes, 63370, France",
         "price": "22-66EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 61 74 71",
+        "phone": "04 73 61 74 71",
         "website": "http://www.b2k6.fr",
         "experience": "Assez confortable"
     },
@@ -270,7 +270,7 @@
         "adress": "4 quai Thomas, Cancale, 35260, France",
         "price": "32-80EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 2 99 89 60 16",
+        "phone": "02 99 89 60 16",
         "website": "http://www.hotel-cancale.com",
         "experience": "Confortable"
     },
@@ -280,7 +280,7 @@
         "adress": "51 Place de la Mairie, Polliat, 01310, France",
         "price": "24-73EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 74 30 40 19",
+        "phone": "04 74 30 40 19",
         "website": "http://www.restaurant-tejerina-logis.fr",
         "experience": "Confortable"
     },
@@ -290,7 +290,7 @@
         "adress": "45 rue Boulard, Paris, 75014, France",
         "price": "32-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 53 90 76 22",
+        "phone": "01 53 90 76 22",
         "website": "http://www.auxplumes.com",
         "experience": "Assez confortable"
     },
@@ -300,7 +300,7 @@
         "adress": "12 rue Odebert, Dijon, 21000, France",
         "price": "21-54EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 80 50 09 26",
+        "phone": "03 80 50 09 26",
         "website": "http://www.dzenvies.com",
         "experience": "Assez confortable"
     },
@@ -310,7 +310,7 @@
         "adress": "11 rue de Verdun, Pontchâteau, 44160, France",
         "price": "26-33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 40 42 23 28",
+        "phone": "02 40 42 23 28",
         "website": "http://www.restaurant-le11.fr",
         "experience": "Assez confortable"
     },
@@ -320,7 +320,7 @@
         "adress": "au bourg, Daglan, 24250, France",
         "price": "32-41EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 28 41 10",
+        "phone": "05 53 28 41 10",
         "website": "http://www.le-petit-paris.fr",
         "experience": "Confortable"
     },
@@ -330,7 +330,7 @@
         "adress": "4 avenue de Laugerie, Les Eyzies-de-Tayac, 24620, France",
         "price": "19-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 06 97 07",
+        "phone": "05 53 06 97 07",
         "website": "http://www.les-glycines-dordogne.com",
         "experience": "Assez confortable"
     },
@@ -340,7 +340,7 @@
         "adress": "101 rue Moncey, Lyon, 69003, France",
         "price": "27-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 78 60 90 23",
+        "phone": "04 78 60 90 23",
         "website": "http://www.latable101.fr",
         "experience": "Assez confortable"
     },
@@ -350,7 +350,7 @@
         "adress": "34-36 rue de Lille, Boulogne-sur-Mer, 62200, France",
         "price": "26-68EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 21 92 01 62",
+        "phone": "03 21 92 01 62",
         "website": "http://www.lilotvert.fr",
         "experience": "Assez confortable"
     },
@@ -360,7 +360,7 @@
         "adress": "21 rue Hoche, Néris-les-Bains, 03310, France",
         "price": "22-46EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 03 06 97",
+        "phone": "04 70 03 06 97",
         "experience": "Assez confortable"
     },
     {
@@ -369,7 +369,7 @@
         "adress": "4 rue Ernest-Lamort, Cancale, 35260, France",
         "price": "30-90EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 99 89 66 08",
+        "phone": "02 99 89 66 08",
         "website": "http://www.restaurant-cotemer.fr",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -379,7 +379,7 @@
         "adress": "754 rue Paul-de-Vanssay, Montanges, 01200, France",
         "price": "34-41EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 56 36 35",
+        "phone": "04 50 56 36 35",
         "website": "http://www.pontdespierres.fr",
         "experience": "Assez confortable"
     },
@@ -389,7 +389,7 @@
         "adress": "rue de L'Église, Guéthary, 64210, France",
         "price": "32-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 59 26 51 34",
+        "phone": "05 59 26 51 34",
         "website": "http://www.briketenia.com",
         "experience": "Assez confortable"
     },
@@ -399,7 +399,7 @@
         "adress": "19 faubourg Sainte-Claire, Annecy, 74000, France",
         "price": "20-35EUR",
         "type": "Cuisine japonaise",
-        "phone": "tel:+33 4 50 45 75 42",
+        "phone": "04 50 45 75 42",
         "experience": "Assez confortable"
     },
     {
@@ -408,7 +408,7 @@
         "adress": "67 chemin de la Messe, Perros-Guirec, 22700, France",
         "price": "25-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 96 23 25 42",
+        "phone": "02 96 23 25 42",
         "website": "http://www.lemanoirdusphinx.bzh",
         "experience": "Confortable. Nos établissements de charme.",
         "maitre": true
@@ -419,7 +419,7 @@
         "adress": "465 route de Gaillac, Ambres, 81500, France",
         "price": "18-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 57 64 85",
+        "phone": "05 63 57 64 85",
         "experience": "Assez confortable"
     },
     {
@@ -428,7 +428,7 @@
         "adress": "866 chemin vicinal Coste Brigade, Gassin, 83580, France",
         "price": "30-61EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 94 56 16 23",
+        "phone": "04 94 56 16 23",
         "website": "http://www.la-verdoyante.fr",
         "experience": "Confortable"
     },
@@ -438,7 +438,7 @@
         "adress": "23 rue Eugène-Carrière, Paris, 75018, France",
         "price": "30-35EUR",
         "type": "Cuisine grecque",
-        "phone": "tel:+33 1 71 50 00 80",
+        "phone": "01 71 50 00 80",
         "website": "http://www.etsi-paris.fr",
         "experience": "Assez confortable"
     },
@@ -448,7 +448,7 @@
         "adress": "place du Foiral, Prats-de-Mollo-la-Preste, 66230, France",
         "price": "33-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 68 39 72 48",
+        "phone": "04 68 39 72 48",
         "website": "http://www.hotel-le-bellevue.fr",
         "experience": "Confortable"
     },
@@ -458,7 +458,7 @@
         "adress": "1 rue du Chapeau-Rouge, impasse Charavay, Lyon, 69009, France",
         "price": "22-30EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 26 18 57 15",
+        "phone": "04 26 18 57 15",
         "website": "http://www.racinerestaurant-lyon.com",
         "experience": "Assez confortable"
     },
@@ -468,7 +468,7 @@
         "adress": "Route de Strasbourg, Fouday, 67130, France",
         "price": "24-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 88 97 30 09",
+        "phone": "03 88 97 30 09",
         "website": "http://www.hoteljulien.com",
         "experience": "Confortable"
     },
@@ -478,7 +478,7 @@
         "adress": "84 rue de Grignan, Marseille, 13001, France",
         "price": "34-45EUR",
         "type": "Cuisine méditerranéenne",
-        "phone": "tel:+33 4 86 26 54 16",
+        "phone": "04 86 26 54 16",
         "website": "http://www.maisonbuon.com",
         "experience": "Assez confortable"
     },
@@ -488,7 +488,7 @@
         "adress": "1 rue des Écoles, Kaysersberg, 68240, France",
         "price": "31-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 47 17 51",
+        "phone": "03 89 47 17 51",
         "website": "http://www.vieilleforge-kb.com",
         "experience": "Confortable"
     },
@@ -498,7 +498,7 @@
         "adress": "1 avenue des Pyrénées, Lacroix-Falgarde, 31120, France",
         "price": "21-70EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 5 61 76 94 97",
+        "phone": "05 61 76 94 97",
         "website": "http://www.restaurant-lebellevue.com",
         "experience": "Confortable"
     },
@@ -508,7 +508,7 @@
         "adress": "4 avenue Durandeau, Ax-les-Thermes, 09110, France",
         "price": "32-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 64 24 31",
+        "phone": "05 61 64 24 31",
         "website": "http://www.le-chalet.fr",
         "experience": "Confortable",
         "maitre": true
@@ -519,7 +519,7 @@
         "adress": "20 rue Roger-Brun, Bracieux, 41250, France",
         "price": "23-79EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 54 46 03 87",
+        "phone": "02 54 46 03 87",
         "experience": "Assez confortable"
     },
     {
@@ -528,7 +528,7 @@
         "adress": "629 chemin des Terres, Sainte-Cécile-les-Vignes, 84290, France",
         "price": "26-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 63 40 11",
+        "phone": "04 90 63 40 11",
         "website": "http://www.restaurant-cvg.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -538,7 +538,7 @@
         "adress": "5 route de Perherel, lieu-dit St-Samson, Plougasnou, 29630, France",
         "price": "21-34EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 98 72 40 66",
+        "phone": "02 98 72 40 66",
         "website": "http://www.maisonkerdies.com",
         "experience": "Confortable"
     },
@@ -548,7 +548,7 @@
         "adress": "9 rue Bouchut, Paris, 75015, France",
         "price": "38-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 45 67 15 65",
+        "phone": "01 45 67 15 65",
         "website": "http://www.lantreamis.com",
         "experience": "Assez confortable"
     },
@@ -558,7 +558,7 @@
         "adress": "200 route de Montélimar, Grignan, 26230, France",
         "price": "33-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 75 00 01 01",
+        "phone": "04 75 00 01 01",
         "website": "http://www.chapouton.com",
         "experience": "Assez confortable"
     },
@@ -568,7 +568,7 @@
         "adress": "32 quai Baluze, Tulle, 19000, France",
         "price": "21-42EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 44 40 94 89",
+        "phone": "05 44 40 94 89",
         "website": "http://www.restaurant-les7.fr",
         "experience": "Assez confortable"
     },
@@ -578,7 +578,7 @@
         "adress": "15 Rue Pierre-Henri Mauger, Contres, 41700, France",
         "price": "33-56EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 54 79 50 49",
+        "phone": "02 54 79 50 49",
         "website": "http://www.labottedasperges.com",
         "experience": "Assez confortable"
     },
@@ -588,7 +588,7 @@
         "adress": "6 rue Trois-Notre-Dame, Angoulême, 16000, France",
         "price": "33-57EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 45 95 15 19",
+        "phone": "05 45 95 15 19",
         "experience": "Confortable"
     },
     {
@@ -597,7 +597,7 @@
         "adress": "16 rue de Reims, Épernay, 51200, France",
         "price": "33-68EUR",
         "type": "Spécialités de Grillades",
-        "phone": "tel:+33 3 26 55 44 22",
+        "phone": "03 26 55 44 22",
         "website": "http://www.lagrilladegourmande.com",
         "experience": "Confortable"
     },
@@ -607,7 +607,7 @@
         "adress": "63 Route Nationale, Dury, 80480, France",
         "price": "32-64EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 22 95 03 33",
+        "phone": "03 22 95 03 33",
         "website": "http://www.labonneauberge80.com",
         "experience": "Confortable"
     },
@@ -617,7 +617,7 @@
         "adress": "24 route des Moulins, Menthon-Saint-Bernard, 74290, France",
         "price": "33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 44 00 68",
+        "phone": "04 50 44 00 68",
         "website": "http://www.restaurant-leconfidentiel.fr",
         "experience": "Assez confortable"
     },
@@ -627,7 +627,7 @@
         "adress": "9 rue Fourcroy, Paris, 75017, France",
         "price": "30-47EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 42 27 47 42",
+        "phone": "01 42 27 47 42",
         "experience": "Assez confortable"
     },
     {
@@ -636,7 +636,7 @@
         "adress": "5 rue Principale, Rimbach-près-Guebwiller, 68500, France",
         "price": "22-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 76 89 90",
+        "phone": "03 89 76 89 90",
         "website": "http://www.hotelaigledor.com",
         "experience": "Assez confortable"
     },
@@ -646,7 +646,7 @@
         "adress": "7 rue du Canigou, Clara, 66500, France",
         "price": "32-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 68 96 08 72",
+        "phone": "04 68 96 08 72",
         "website": "http://www.logesaymeric.com",
         "experience": "Confortable"
     },
@@ -656,7 +656,7 @@
         "adress": "6 place Nationale, Caromb, 84330, France",
         "price": "33-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 62 37 91",
+        "phone": "04 90 62 37 91",
         "website": "http://www.pascal-poulain.com",
         "experience": "Assez confortable"
     },
@@ -666,7 +666,7 @@
         "adress": "198 route du Château, Saint-Gervais-les-Bains, 74170, France",
         "price": "34-59EUR",
         "type": "Cuisine régionale",
-        "phone": "tel:+33 4 50 93 47 30",
+        "phone": "04 50 93 47 30",
         "website": "http://www.lafermedecupelin.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -676,7 +676,7 @@
         "adress": "25 bis avenue de Loverchy, Annecy, 74000, France",
         "price": "24-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 64 21 17",
+        "phone": "04 50 64 21 17",
         "experience": "Assez confortable"
     },
     {
@@ -685,7 +685,7 @@
         "adress": "2 rue de la Rochette, Fréland, 68240, France",
         "price": "28-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 47 24 18",
+        "phone": "03 89 47 24 18",
         "website": "http://www.restaurantmusee.fr",
         "experience": "Confortable"
     },
@@ -695,7 +695,7 @@
         "adress": "25 rue de Lattre-de-Tassigny, La Garnache, 85710, France",
         "price": "30-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 51 49 05 99",
+        "phone": "02 51 49 05 99",
         "website": "http://www.restaurant-petit-st-thomas.com",
         "experience": "Confortable",
         "maitre": true
@@ -706,7 +706,7 @@
         "adress": "8 rue du Docteur-Foucault, Nanterre, 92000, France",
         "price": "26-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 47 25 22 51",
+        "phone": "01 47 25 22 51",
         "website": "http://www.cabanerestaurant.com",
         "experience": "Assez confortable"
     },
@@ -716,7 +716,7 @@
         "adress": "1 rue Stang-Ar-Béo, Lannion, 22300, France",
         "price": "29-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 56 14 07 91",
+        "phone": "02 56 14 07 91",
         "website": "http://www.restaurant-lebrelevenez.fr",
         "experience": "Assez confortable"
     },
@@ -726,7 +726,7 @@
         "adress": "7 rue du Vieux-Moulin, Graufthal, 67320, France",
         "price": "20-68EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 88 70 17 28",
+        "phone": "03 88 70 17 28",
         "website": "http://www.auvieuxmoulin.eu",
         "experience": "Confortable"
     },
@@ -736,7 +736,7 @@
         "adress": "9-13 rue du Général-de-Gaulle, Kaysersberg, 68240, France",
         "price": "24-41EUR",
         "type": "Cuisine alsacienne",
-        "phone": "tel:+33 3 89 47 10 17",
+        "phone": "03 89 47 10 17",
         "website": "http://www.lechambard.fr",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -746,7 +746,7 @@
         "adress": "1193 chemin de Saint-Bernard, Vallauris, 06220, France",
         "price": "30EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 93 33 99 59",
+        "phone": "04 93 33 99 59",
         "experience": "Assez confortable"
     },
     {
@@ -755,7 +755,7 @@
         "adress": "21 place des Corps-Saints, Avignon, 84000, France",
         "price": "26-74EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 85 04 06",
+        "phone": "04 90 85 04 06",
         "website": "http://www.restaurant-agape-avignon.com",
         "experience": "Assez confortable"
     },
@@ -765,7 +765,7 @@
         "adress": "1800 route de Saint-Genix, Aoste, 38490, France",
         "price": "34-72EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 76 31 60 04",
+        "phone": "04 76 31 60 04",
         "website": "http://www.au-coq-en-velours.com",
         "experience": "Confortable"
     },
@@ -775,7 +775,7 @@
         "adress": "33 quai Charles-de-Gaulle, Lyon, 69006, France",
         "price": "28-59EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 37 45 45 45",
+        "phone": "04 37 45 45 45",
         "website": "http://www.33cite.com",
         "experience": "Assez confortable"
     },
@@ -785,7 +785,7 @@
         "adress": "67 rue Pasteur, Dole, 39100, France",
         "price": "22-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 84 71 97 36",
+        "phone": "03 84 71 97 36",
         "website": "http://www.restaurant-graindesel.fr",
         "experience": "Assez confortable"
     },
@@ -795,7 +795,7 @@
         "adress": "6 rue des Écoles, Quarré-les-Tombes, 89630, France",
         "price": "26-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 86 32 29 29",
+        "phone": "03 86 32 29 29",
         "website": "http://www.le-morvan.fr",
         "experience": "Confortable"
     },
@@ -805,7 +805,7 @@
         "adress": "1c rue du Docteur-Couderc, Le Neubourg, 27110, France",
         "price": "25-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 32 60 29 83",
+        "phone": "02 32 60 29 83",
         "website": "http://www.restaurant-la-longere.fr",
         "experience": "Assez confortable"
     },
@@ -815,7 +815,7 @@
         "adress": "5 rue Marie-Lemonnier, L'Herbaudière, 85330, France",
         "price": "22-33EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 2 28 10 68 35",
+        "phone": "02 28 10 68 35",
         "website": "http://www.alexandrecouillon.com",
         "experience": "Assez confortable"
     },
@@ -825,7 +825,7 @@
         "adress": "11 rue Principale, Niedersteinbach, 67510, France",
         "price": "32-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 88 09 55 31",
+        "phone": "03 88 09 55 31",
         "website": "http://www.hotel-cheval-blanc.fr",
         "experience": "Confortable"
     },
@@ -835,7 +835,7 @@
         "adress": "Grande-Rue, Lent, 01240, France",
         "price": "28-74EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 74 21 55 05",
+        "phone": "04 74 21 55 05",
         "website": "http://www.auberge-lentaise.fr",
         "experience": "Confortable"
     },
@@ -845,7 +845,7 @@
         "adress": "rue du Port-de-la-Fouarne, Velluire, 85770, France",
         "price": "34-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 51 52 32 15",
+        "phone": "02 51 52 32 15",
         "website": "http://www.hotel-riviere-vendee.com",
         "experience": "ô                                    Très confortable",
         "maitre": true
@@ -856,7 +856,7 @@
         "adress": "28 rue du Pré-Etienne, Château-d'Olonne, 85180, France",
         "price": "23-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 51 33 41 83",
+        "phone": "02 51 33 41 83",
         "experience": "Confortable"
     },
     {
@@ -865,7 +865,7 @@
         "adress": "2 place de l'Église, Fursac, 23290, France",
         "price": "29-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 63 60 56",
+        "phone": "05 55 63 60 56",
         "website": "http://www.hotelnougier.fr",
         "experience": "Confortable"
     },
@@ -875,7 +875,7 @@
         "adress": "35 plan de la Gare, Quissac, 30260, France",
         "price": "22-42EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 66 77 02 45",
+        "phone": "04 66 77 02 45",
         "website": "http://www.lartysan.com",
         "experience": "Assez confortable"
     },
@@ -885,7 +885,7 @@
         "adress": "2 rue de la Poste, Beaulieu-sous-la-Roche, 85190, France",
         "price": "24-66EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 51 98 24 80",
+        "phone": "02 51 98 24 80",
         "website": "http://www.lecafedesarts-beaulieu.com",
         "experience": "Assez confortable"
     },
@@ -895,7 +895,7 @@
         "adress": "15 rue des Panoyaux, Paris, 75020, France",
         "price": "19-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 43 58 45 45",
+        "phone": "01 43 58 45 45",
         "website": "http://www.restaurantlescanailles.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -906,7 +906,7 @@
         "adress": "4 rue Littré, Nîmes, 30000, France",
         "price": "25-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 66 36 01 02",
+        "phone": "04 66 36 01 02",
         "website": "http://www.auxplaisirsdeshalles.com",
         "experience": "Confortable"
     },
@@ -916,7 +916,7 @@
         "adress": "2 rue Paul-Lasnier, Aubigny-sur-Nère, 18700, France",
         "price": "24-59EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 48 58 04 01",
+        "phone": "02 48 58 04 01",
         "website": "http://www.hotel-restaurant-la-chaumiere.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -926,7 +926,7 @@
         "adress": "18 avenue de la Côte-de-Nacre, Bénouville, 14970, France",
         "price": "26-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 44 62 43",
+        "phone": "02 31 44 62 43",
         "website": "http://www.manoirdhastings.fr",
         "experience": "Confortable"
     },
@@ -936,7 +936,7 @@
         "adress": "14 place de la Maison des Princes, Pont-Scorff, 56620, France",
         "price": "17-48EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 32 65 08",
+        "phone": "02 97 32 65 08",
         "website": "http://www.lartgourmand.com",
         "experience": "Assez confortable"
     },
@@ -946,7 +946,7 @@
         "adress": "8 rue de Lampertheim, Pfulgriesheim, 67370, France",
         "price": "20-45EUR",
         "type": "Cuisine alsacienne",
-        "phone": "tel:+33 3 88 20 01 92",
+        "phone": "03 88 20 01 92",
         "website": "http://www.burestubel.fr",
         "experience": "Assez confortable"
     },
@@ -956,7 +956,7 @@
         "adress": "162 boulevard de Vanteaux, Limoges, 87000, France",
         "price": "27-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 49 01 26",
+        "phone": "05 55 49 01 26",
         "website": "http://www.levanteaux.com",
         "experience": "Confortable"
     },
@@ -966,7 +966,7 @@
         "adress": "9 rue du Général-de-Gaulle, Guingamp, 22200, France",
         "price": "18-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 96 21 33 63",
+        "phone": "02 96 21 33 63",
         "experience": "Confortable"
     },
     {
@@ -975,7 +975,7 @@
         "adress": "6 rue Ste-Réparate, Nice, 06000, France",
         "price": "33-59EUR",
         "type": "Cuisine régionale",
-        "phone": "tel:+33 4 89 14 97 51",
+        "phone": "04 89 14 97 51",
         "website": "http://www.oliveartichaut.com",
         "experience": "Assez confortable"
     },
@@ -985,7 +985,7 @@
         "adress": "rue du Lejat - lieu-dit La Berlanderie, Croutelle, 86240, France",
         "price": "21-88EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 49 57 11 52",
+        "phone": "05 49 57 11 52",
         "website": "http://www.la-chenaie.com",
         "experience": "Confortable"
     },
@@ -995,7 +995,7 @@
         "adress": "5 rue de la Fontaine, Veuil, 36600, France",
         "price": "23-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 54 40 32 78",
+        "phone": "02 54 40 32 78",
         "website": "http://www.aubergesaintfiacre.com",
         "experience": "Confortable"
     },
@@ -1005,7 +1005,7 @@
         "adress": "3 rue de l'Ancienne-École, Villegenon, 18260, France",
         "price": "14-40EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 48 73 45 36",
+        "phone": "02 48 73 45 36",
         "website": "http://www.la-recreation-gourmande.com",
         "experience": "Assez confortable"
     },
@@ -1015,7 +1015,7 @@
         "adress": "1357 route de Fréjus, Fayence, 83440, France",
         "price": "34-78EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 76 08 44",
+        "phone": "04 94 76 08 44",
         "website": "http://www.latabledyves.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -1025,7 +1025,7 @@
         "adress": "Place Daniel-Boucour, Val-de-Saâne, 76890, France",
         "price": "25-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 35 32 30 13",
+        "phone": "02 35 32 30 13",
         "website": "http://www.lamereduval.fr",
         "experience": "Confortable"
     },
@@ -1035,7 +1035,7 @@
         "adress": "Avenue Henri-de-la-Tourfondue, Montluçon, 03100, France",
         "price": "33-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 03 26 57",
+        "phone": "04 70 03 26 57",
         "website": "http://www.chateau-saint-jean.com",
         "experience": "Assez confortable"
     },
@@ -1045,7 +1045,7 @@
         "adress": "22 faubourg Sainte-Claire, Annecy, 74000, France",
         "price": "22-48EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 65 00 25",
+        "phone": "04 50 65 00 25",
         "website": "http://www.restaurantcozna.com",
         "experience": "Assez confortable"
     },
@@ -1055,7 +1055,7 @@
         "adress": "1 rue Lamarque, Saint-Savin, 65400, France",
         "price": "19-90EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 62 97 02 28",
+        "phone": "05 62 97 02 28",
         "website": "http://www.hotel-leviscos.com",
         "experience": "ô                                    Très confortable"
     },
@@ -1065,7 +1065,7 @@
         "adress": "10 rue de Satory, Versailles, 78000, France",
         "price": "37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 75 45 63 70",
+        "phone": "01 75 45 63 70",
         "website": "http://www.lebistrotdu11.com",
         "experience": "Assez confortable"
     },
@@ -1075,7 +1075,7 @@
         "adress": "8 rue Hippolyte-Lebas, Paris, 75009, France",
         "price": "38-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 53 20 88 70",
+        "phone": "01 53 20 88 70",
         "experience": "Assez confortable"
     },
     {
@@ -1084,7 +1084,7 @@
         "adress": "Le Planay, Notre-Dame-de-Bellecombe, 73590, France",
         "price": "33-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 79 31 63 46",
+        "phone": "04 79 31 63 46",
         "website": "http://www.la-ferme-de-victorine.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -1094,7 +1094,7 @@
         "adress": "45 boulevard de la République, Royan, 17200, France",
         "price": "28-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 16 65 85 43",
+        "phone": "05 16 65 85 43",
         "experience": "Assez confortable"
     },
     {
@@ -1103,7 +1103,7 @@
         "adress": "270 chemin de Malombre, Malataverne, 26780, France",
         "price": "32-39EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 75 90 86 86",
+        "phone": "04 75 90 86 86",
         "experience": "Assez confortable"
     },
     {
@@ -1112,7 +1112,7 @@
         "adress": "455 La Haute-Meilleraie, Varades, 44370, France",
         "price": "33-67EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 2 40 98 33 30",
+        "phone": "02 40 98 33 30",
         "website": "http://www.lacloseriedesroses.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -1122,7 +1122,7 @@
         "adress": "284 boulevard du Front-de-Mer, Bormes-les-Mimosa, 83230, France",
         "price": "33-62EUR",
         "type": "Cuisine provençale",
-        "phone": "tel:+33 9 87 36 49 46",
+        "phone": "09 87 36 49 46",
         "experience": "Assez confortable"
     },
     {
@@ -1131,7 +1131,7 @@
         "adress": "40 rue Saint-Bonaventure, Cholet, 49300, France",
         "price": "23-56EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 41 58 55 18",
+        "phone": "02 41 58 55 18",
         "website": "http://www.lourdissoir.com",
         "experience": "Assez confortable"
     },
@@ -1141,7 +1141,7 @@
         "adress": "11 rue Armand-Rébillon, Rennes, 35000, France",
         "price": "22-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 99 14 25 14",
+        "phone": "02 99 14 25 14",
         "website": "http://www.restaurantessentiel.com",
         "experience": "Confortable"
     },
@@ -1151,7 +1151,7 @@
         "adress": "37 boulevard Jean-Moulin, Flayosc, 83780, France",
         "price": "32-53EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 68 09 96",
+        "phone": "04 94 68 09 96",
         "website": "http://www.restaurantlenid.wixsite.com/lenidflayosc",
         "experience": "Assez confortable"
     },
@@ -1161,7 +1161,7 @@
         "adress": "99 rue de la République, Ingersheim, 68040, France",
         "price": "19-66EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 89 27 08 41",
+        "phone": "03 89 27 08 41",
         "website": "http://www.tavernealsacienne-familleguggenbuhl.com",
         "experience": "Confortable"
     },
@@ -1171,7 +1171,7 @@
         "adress": "20 rue Saint-Victor, Paris, 75005, France",
         "price": "38-60EUR",
         "type": "Cuisine italienne",
-        "phone": "tel:+33 1 44 31 54 54",
+        "phone": "01 44 31 54 54",
         "website": "http://www.cucina-mutualite.com",
         "experience": "Confortable"
     },
@@ -1181,7 +1181,7 @@
         "adress": "21 rue des Carmes, Arles, 13200, France",
         "price": "33EUR",
         "type": "Cuisine provençale",
-        "phone": "tel:+33 4 90 47 61 13",
+        "phone": "04 90 47 61 13",
         "website": "http://www.rabanel.com",
         "experience": "Assez confortable"
     },
@@ -1191,7 +1191,7 @@
         "adress": "4 quai du Lénigo, Le Croisic, 44490, France",
         "price": "21-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 40 23 03 77",
+        "phone": "02 40 23 03 77",
         "website": "http://www.lestacade.fr",
         "experience": "Confortable"
     },
@@ -1201,7 +1201,7 @@
         "adress": "4 rue Duquesne, Concarneau, 29900, France",
         "price": "20-88EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 98 60 43 47",
+        "phone": "02 98 60 43 47",
         "experience": "Confortable"
     },
     {
@@ -1210,7 +1210,7 @@
         "adress": "13 rue Philibert-Lucot, Paris, 75013, France",
         "price": "25-35EUR",
         "type": "Cuisine vietnamienne",
-        "phone": "tel:+33 1 45 85 97 36",
+        "phone": "01 45 85 97 36",
         "experience": "Assez confortable"
     },
     {
@@ -1219,7 +1219,7 @@
         "adress": "Place du Monument, Thorigné-sur-Dué, 72160, France",
         "price": "33-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 43 89 95 50",
+        "phone": "02 43 89 95 50",
         "website": "http://www.hotel-sarthe.fr",
         "experience": "Confortable"
     },
@@ -1229,7 +1229,7 @@
         "adress": "7 place St-André, Saint-Benoît-sur-Loire, 45730, France",
         "price": "34-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 38 35 11 92",
+        "phone": "02 38 35 11 92",
         "website": "http://www.restaurant-grand-saint-benoit.com",
         "experience": "Confortable",
         "maitre": true
@@ -1240,7 +1240,7 @@
         "adress": "19 Grande-Rue, Bâgé-le-Châtel, 01380, France",
         "price": "34-82EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 85 30 54 22",
+        "phone": "03 85 30 54 22",
         "website": "http://www.latablebagesienne.com",
         "experience": "Confortable"
     },
@@ -1250,7 +1250,7 @@
         "adress": "1 place du Docteur-Gireaux, Nocé, 61340, France",
         "price": "28-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 33 73 41 03",
+        "phone": "02 33 73 41 03",
         "website": "http://www.auberge-3j.fr",
         "experience": "Confortable"
     },
@@ -1260,7 +1260,7 @@
         "adress": "38 avenue de la Grande-Charmille-du-Parc, Sainte-Geneviève-des-Bois, 91700, France",
         "price": "32-63EUR",
         "type": "Cuisine du Sud-Ouest",
-        "phone": "tel:+33 1 60 15 71 53",
+        "phone": "01 60 15 71 53",
         "website": "http://www.latabledantan.fr",
         "experience": "Confortable"
     },
@@ -1270,7 +1270,7 @@
         "adress": "185 rue St-Denis, Paris, 75002, France",
         "price": "21-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 50 48 35 78",
+        "phone": "09 50 48 35 78",
         "website": "http://www.itacoa.paris",
         "experience": "Assez confortable"
     },
@@ -1280,7 +1280,7 @@
         "adress": "9 rue Decrès, Paris, 75014, France",
         "price": "23-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 45 45 58 59",
+        "phone": "01 45 45 58 59",
         "website": "http://www.bistrotters.com",
         "experience": "Assez confortable"
     },
@@ -1290,7 +1290,7 @@
         "adress": "49 place du Général-de-Gaulle, Chinon, 37500, France",
         "price": "30-46EUR",
         "type": "Cuisine du terroir",
-        "phone": "tel:+33 2 47 98 08 08",
+        "phone": "02 47 98 08 08",
         "website": "http://www.auchapeaurouge.fr",
         "experience": "Confortable",
         "maitre": true
@@ -1301,7 +1301,7 @@
         "adress": "1 rue Gaston-Robbe, Renescure, 59173, France",
         "price": "20-32EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 9 67 35 23 60",
+        "phone": "09 67 35 23 60",
         "website": "http://www.tablederomain.kazeo.com",
         "experience": "Assez confortable"
     },
@@ -1311,7 +1311,7 @@
         "adress": "415 route du Beaujolais, Charlieu, 42190, France",
         "price": "23-88EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 77 60 00 88",
+        "phone": "04 77 60 00 88",
         "website": "http://www.relais-abbaye.fr",
         "experience": "Confortable"
     },
@@ -1321,7 +1321,7 @@
         "adress": "13 rue de Pont, Moulins, 03000, France",
         "price": "33-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 43 51 23 82",
+        "phone": "04 43 51 23 82",
         "experience": "Assez confortable"
     },
     {
@@ -1330,7 +1330,7 @@
         "adress": "38 rue Georges-Clemenceau, Falaise, 14700, France",
         "price": "22-61EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 90 13 14",
+        "phone": "02 31 90 13 14",
         "experience": "Confortable"
     },
     {
@@ -1339,7 +1339,7 @@
         "adress": "4 rue St-Eutrope, Clermont-Ferrand, 63000, France",
         "price": "24-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 34 30 41",
+        "phone": "04 73 34 30 41",
         "website": "http://www.sainteutrope.com",
         "experience": "Assez confortable"
     },
@@ -1349,7 +1349,7 @@
         "adress": "5 chemin de l'Étang-du-Moulin, Bonnétage, 25210, France",
         "price": "19-57EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 81 68 92 78",
+        "phone": "03 81 68 92 78",
         "website": "http://www.etang-du-moulin.com",
         "experience": "Assez confortable"
     },
@@ -1359,7 +1359,7 @@
         "adress": "1 rue Baillet, Bermicourt, 62130, France",
         "price": "32-40EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 21 03 33 33",
+        "phone": "03 21 03 33 33",
         "website": "http://www.lacourderemi.com",
         "experience": "Assez confortable"
     },
@@ -1369,7 +1369,7 @@
         "adress": "24 rue de la République, Argelès-sur-Mer, 66700, France",
         "price": "31-63EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 6 19 25 70 13",
+        "phone": "06 19 25 70 13",
         "website": "http://www.restaurant-labartavelle.fr",
         "experience": "Assez confortable"
     },
@@ -1379,7 +1379,7 @@
         "adress": "40 rue Pierre-Corneille, Lyon, 69006, France",
         "price": "26-29EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 78 52 16 35",
+        "phone": "04 78 52 16 35",
         "experience": "Assez confortable"
     },
     {
@@ -1388,7 +1388,7 @@
         "adress": "17 rue Jean-du-Plessis, La Bernerie-en-Retz, 44760, France",
         "price": "21-45EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 51 74 61 60",
+        "phone": "02 51 74 61 60",
         "experience": "Assez confortable"
     },
     {
@@ -1397,7 +1397,7 @@
         "adress": "60 rue de la Gare, Flers, 61100, France",
         "price": "25-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 33 65 31 53",
+        "phone": "02 33 65 31 53",
         "website": "http://www.auboutdelarue.com",
         "experience": "Confortable"
     },
@@ -1407,7 +1407,7 @@
         "adress": "40 rue Grande, Châteauroux, 36000, France",
         "price": "18-52EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 54 27 66 28",
+        "phone": "02 54 27 66 28",
         "website": "http://www.jeux2gouts.fr",
         "experience": "Confortable"
     },
@@ -1417,7 +1417,7 @@
         "adress": "1 rue Monseigneur-Trouillet, Nancy, 54000, France",
         "price": "23-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 83 30 17 20",
+        "phone": "03 83 30 17 20",
         "website": "http://www.latoqueblanche.fr",
         "experience": "Confortable"
     },
@@ -1427,7 +1427,7 @@
         "adress": "106 rue Nollet, Paris, 75017, France",
         "price": "32-46EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 42 26 01 02",
+        "phone": "01 42 26 01 02",
         "website": "http://www.lenviedujour.com",
         "experience": "Assez confortable"
     },
@@ -1437,7 +1437,7 @@
         "adress": "place des Barrys, Gassin, 83580, France",
         "price": "33-82EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 94 56 17 30",
+        "phone": "04 94 56 17 30",
         "website": "http://www.bellovisto.eu",
         "experience": "Confortable"
     },
@@ -1447,7 +1447,7 @@
         "adress": "26 avenue du 45ème-Parallèle, Pont-de-l'Isère, 26600, France",
         "price": "34-79EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 84 60 09",
+        "phone": "04 75 84 60 09",
         "experience": "Assez confortable"
     },
     {
@@ -1456,7 +1456,7 @@
         "adress": "4 rue du Wiggensbach, Hattstatt, 68420, France",
         "price": "22-78EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 78 83 56",
+        "phone": "03 89 78 83 56",
         "website": "http://www.restaurant-laltevic.fr",
         "experience": "Assez confortable"
     },
@@ -1466,7 +1466,7 @@
         "adress": "2 rue de la Petite-Pirelle, Tain-l'Hermitage, 26600, France",
         "price": "33-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 09 19 85",
+        "phone": "04 75 09 19 85",
         "website": "http://www.maisongambert.com",
         "experience": "Assez confortable"
     },
@@ -1476,7 +1476,7 @@
         "adress": "1 place du Pont, Berlou, 34360, France",
         "price": "25-67EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 24 16 99",
+        "phone": "04 67 24 16 99",
         "website": "http://www.lefaitout.net",
         "experience": "Assez confortable"
     },
@@ -1486,7 +1486,7 @@
         "adress": "822 chemin de Lussan, Auch, 32000, France",
         "price": "21-71EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 62 59 97 38",
+        "phone": "05 62 59 97 38",
         "website": "http://www.ledomainedebaulieu.com",
         "experience": "Assez confortable"
     },
@@ -1496,7 +1496,7 @@
         "adress": "1 avenue du Pont-de-Malakoff, Valady, 12330, France",
         "price": "19-72EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 72 70 24",
+        "phone": "05 65 72 70 24",
         "website": "http://www.auberge-ady.com",
         "experience": "Confortable"
     },
@@ -1506,7 +1506,7 @@
         "adress": "Quai de l'Ardèche, Aubenas, 07200, France",
         "price": "20-51EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 93 58 33",
+        "phone": "04 75 93 58 33",
         "website": "http://www.les-coloquintes.com",
         "experience": "Confortable"
     },
@@ -1516,7 +1516,7 @@
         "adress": "6 rue Barthélemy-de-Don, Sanary-sur-Mer, 83110, France",
         "price": "30-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 88 08 05",
+        "phone": "04 94 88 08 05",
         "website": "http://www.laptitecour.com",
         "experience": "Confortable"
     },
@@ -1526,7 +1526,7 @@
         "adress": "Allée Pech Marie, Aragon, 11600, France",
         "price": "33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 68 26 10 65",
+        "phone": "04 68 26 10 65",
         "website": "http://www.labergeriearagon.com",
         "experience": "Confortable"
     },
@@ -1536,7 +1536,7 @@
         "adress": "11 place Paul-Gauguin, Pont-Aven, 29930, France",
         "price": "33-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 98 06 16 16",
+        "phone": "02 98 06 16 16",
         "website": "http://www.surlepont-pontaven.fr",
         "experience": "Assez confortable"
     },
@@ -1546,7 +1546,7 @@
         "adress": "11 rue de la Grande-Chaumière, Paris, 75006, France",
         "price": "22-36EUR",
         "type": "Cuisine méditerranéenne",
-        "phone": "tel:+33 1 72 60 43 63",
+        "phone": "01 72 60 43 63",
         "experience": "Assez confortable"
     },
     {
@@ -1555,7 +1555,7 @@
         "adress": "7 rue d'Edimbourg, Paris, 75008, France",
         "price": "21-35EUR",
         "type": "Cuisine coréenne",
-        "phone": "tel:+33 1 55 06 08 53",
+        "phone": "01 55 06 08 53",
         "website": "http://www.mandoobar.fr",
         "experience": "Assez confortable"
     },
@@ -1565,7 +1565,7 @@
         "adress": "27 avenue Pasteur, Brive-la-Gaillarde, 19100, France",
         "price": "24-53EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 23 71 58",
+        "phone": "05 55 23 71 58",
         "website": "http://www.latoupine.fr",
         "experience": "Confortable"
     },
@@ -1575,7 +1575,7 @@
         "adress": "20 rue du Maréchal-Foch, Saint-Vaast-la-Hougue, 50550, France",
         "price": "33-83EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 33 54 40 41",
+        "phone": "02 33 54 40 41",
         "website": "http://www.france-fuchsias.com",
         "experience": "Confortable"
     },
@@ -1585,7 +1585,7 @@
         "adress": "Col de Curebourse, Saint-Clément, 15800, France",
         "price": "32-80EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 71 47 51 71",
+        "phone": "04 71 47 51 71",
         "website": "http://www.hotelstclementcantal.com",
         "experience": "Confortable"
     },
@@ -1595,7 +1595,7 @@
         "adress": "13/14 chemin du Logis-Vieux, Montrabé, 31850, France",
         "price": "19-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 48 25 24",
+        "phone": "05 61 48 25 24",
         "website": "http://www.restaurant-linstant.fr",
         "experience": "Assez confortable"
     },
@@ -1605,7 +1605,7 @@
         "adress": "6 rue des Cordiers, Saint-Malo, 35400, France",
         "price": "22-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 99 20 18 42",
+        "phone": "02 99 20 18 42",
         "website": "http://www.cambusier.fr",
         "experience": "Assez confortable"
     },
@@ -1615,7 +1615,7 @@
         "adress": "80 rue de Charonne, Paris, 75011, France",
         "price": "35-70EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 1 43 72 74 53",
+        "phone": "01 43 72 74 53",
         "website": "http://www.clamato-charonne.fr",
         "experience": "Assez confortable"
     },
@@ -1625,7 +1625,7 @@
         "adress": "5 rue Village-Neuf, Rosenau, 68128, France",
         "price": "23-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 68 21 97",
+        "phone": "03 89 68 21 97",
         "website": "http://www.auliondor-rosenau.com",
         "experience": "Confortable"
     },
@@ -1635,7 +1635,7 @@
         "adress": "25 rue de Chambord, Montlivault, 41350, France",
         "price": "32EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 54 20 62 30",
+        "phone": "02 54 20 62 30",
         "website": "http://www.lamaisondacote.fr",
         "experience": "Assez confortable"
     },
@@ -1645,7 +1645,7 @@
         "adress": "1 rue Albert-Thibaudet, Tournus, 71700, France",
         "price": "25-70EUR",
         "type": "Cuisine régionale",
-        "phone": "tel:+33 3 85 51 13 52",
+        "phone": "03 85 51 13 52",
         "website": "http://www.restaurant-greuze.fr",
         "experience": "Assez confortable"
     },
@@ -1655,7 +1655,7 @@
         "adress": "13 rue Ternaux, Paris, 75011, France",
         "price": "28-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 43 57 75 56",
+        "phone": "01 43 57 75 56",
         "experience": "Assez confortable"
     },
     {
@@ -1664,7 +1664,7 @@
         "adress": "55 Rue Saint-André, Lille, 59000, France",
         "price": "30-42EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 20 39 05 51",
+        "phone": "03 20 39 05 51",
         "experience": "Assez confortable"
     },
     {
@@ -1673,7 +1673,7 @@
         "adress": "15 avenue Carnot, Alès, 30100, France",
         "price": "20-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 66 52 43 79",
+        "phone": "04 66 52 43 79",
         "website": "http://www.epicesettout.fr",
         "experience": "Assez confortable"
     },
@@ -1683,7 +1683,7 @@
         "adress": "10 rue de la Pleau, Toulouse, 31000, France",
         "price": "19-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 25 03 51",
+        "phone": "05 61 25 03 51",
         "website": "http://www.unetableadeux.fr",
         "experience": "Assez confortable"
     },
@@ -1693,7 +1693,7 @@
         "adress": "1 rue de l'Ile-Gavrinis, Baden, 56870, France",
         "price": "24-78EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 57 00 82",
+        "phone": "02 97 57 00 82",
         "website": "http://www.gavrinis.com",
         "experience": "Confortable"
     },
@@ -1703,7 +1703,7 @@
         "adress": "chemin de Bourion, Charroux, 03140, France",
         "price": "28-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 56 88 83",
+        "phone": "04 70 56 88 83",
         "website": "http://www.fermesaintsebastien.fr",
         "experience": "Confortable"
     },
@@ -1713,7 +1713,7 @@
         "adress": "place Desquet, Pauillac, 33250, France",
         "price": "29-57EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 57 75 00 09",
+        "phone": "05 57 75 00 09",
         "website": "http://www.jmcazes.com/fr/cafe-lavinal",
         "experience": "Assez confortable"
     },
@@ -1723,7 +1723,7 @@
         "adress": "le Bourg, Sainte-Cécile, 71250, France",
         "price": "18-63EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 85 50 81 81",
+        "phone": "03 85 50 81 81",
         "website": "http://www.restaurant-lembellie.com",
         "experience": "Confortable"
     },
@@ -1733,7 +1733,7 @@
         "adress": "3 place Bouchard, L'Île-Bouchard, 37220, France",
         "price": "33-56EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 58 51 07",
+        "phone": "02 47 58 51 07",
         "website": "http://www.aubergedelile.fr",
         "experience": "Confortable"
     },
@@ -1743,7 +1743,7 @@
         "adress": "10 place du Marché-aux-Choux, Sélestat, 67600, France",
         "price": "23-33EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 88 82 96 65",
+        "phone": "03 88 82 96 65",
         "website": "http://www.aubonpichet.fr",
         "experience": "Assez confortable"
     },
@@ -1753,7 +1753,7 @@
         "adress": "21 rue de la Villette, Paris, 75019, France",
         "price": "30-50EUR",
         "type": "Cuisine chinoise",
-        "phone": "tel:+33 9 54 12 21 77",
+        "phone": "09 54 12 21 77",
         "website": "http://chevaldorparis.com",
         "experience": "Assez confortable"
     },
@@ -1763,7 +1763,7 @@
         "adress": "5 route de l'Abbaye, Hambye, 50450, France",
         "price": "29-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 33 61 42 19",
+        "phone": "02 33 61 42 19",
         "website": "http://www.aubergedelabbayehambye.com",
         "experience": "Confortable"
     },
@@ -1773,7 +1773,7 @@
         "adress": "1 traverse de Jas, Les Ribas, Tourtour, 83690, France",
         "price": "29-82EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 70 55 95",
+        "phone": "04 94 70 55 95",
         "website": "http://www.latable.fr",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -1783,7 +1783,7 @@
         "adress": "175 rue de Bourgogne, Orléans, 45000, France",
         "price": "32-41EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 38 72 74 11",
+        "phone": "02 38 72 74 11",
         "website": "http://www.hibiscus-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -1793,7 +1793,7 @@
         "adress": "24 rue Duchelas, Langoëlan, 56160, France",
         "price": "13-40EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 51 37 81",
+        "phone": "02 97 51 37 81",
         "experience": "Assez confortable"
     },
     {
@@ -1802,7 +1802,7 @@
         "adress": "22 rue de la Gare, Isbergues, 62330, France",
         "price": "22-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 21 25 82 40",
+        "phone": "03 21 25 82 40",
         "website": "http://www.le-buffet.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -1812,7 +1812,7 @@
         "adress": "2 boulevard des Arènes, Nîmes, 30000, France",
         "price": "34EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 66 67 29 15",
+        "phone": "04 66 67 29 15",
         "website": "http://www.lelisita.com",
         "experience": "Confortable"
     },
@@ -1822,7 +1822,7 @@
         "adress": "6 rue des Petits-Champs, Paris, 75002, France",
         "price": "30-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 42 61 67 07",
+        "phone": "01 42 61 67 07",
         "website": "http://www.depotlegalparis.com",
         "experience": "Assez confortable"
     },
@@ -1832,7 +1832,7 @@
         "adress": "9 rue de Beaugency, Oucques, 41290, France",
         "price": "28-78EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 54 23 20 41",
+        "phone": "02 54 23 20 41",
         "website": "http://www.o-en-couleur-oucques.com",
         "experience": "Confortable"
     },
@@ -1842,7 +1842,7 @@
         "adress": "Place de l'Église, Locronan, 29180, France",
         "price": "23-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 98 91 70 74",
+        "phone": "02 98 91 70 74",
         "website": "http://www.comptoir-des-voyageurs.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -1853,7 +1853,7 @@
         "adress": "227 rue Roger-Salengro, La Roche-sur-Yon, 85000, France",
         "price": "19-41EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 83 25 83 71",
+        "phone": "09 83 25 83 71",
         "website": "http://www.restaurantlesreflets.fr",
         "experience": "Assez confortable"
     },
@@ -1863,7 +1863,7 @@
         "adress": "35 chemin de l'Église, Auzeville-Tolosane, 31320, France",
         "price": "19-100EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 5 61 13 42 30",
+        "phone": "05 61 13 42 30",
         "website": "http://www.la-table-dauzeville.fr",
         "experience": "Confortable"
     },
@@ -1873,7 +1873,7 @@
         "adress": "7 rue des Herbes, Tain-l'Hermitage, 26600, France",
         "price": "34-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 08 00 76",
+        "phone": "04 75 08 00 76",
         "experience": "Assez confortable"
     },
     {
@@ -1882,7 +1882,7 @@
         "adress": "15 rue du Chariot-d'Or, Lyon, 69004, France",
         "price": "21-48EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 78 23 73 61",
+        "phone": "04 78 23 73 61",
         "website": "http://www.aromaticrestaurant.fr",
         "experience": "Assez confortable"
     },
@@ -1892,7 +1892,7 @@
         "adress": "5 place de la Victoire, Yssingeaux, 43200, France",
         "price": "24-82EUR",
         "type": "Cuisine du terroir",
-        "phone": "tel:+33 4 71 59 06 54",
+        "phone": "04 71 59 06 54",
         "website": "http://www.le-bourbon.com",
         "experience": "Confortable"
     },
@@ -1902,7 +1902,7 @@
         "adress": "2 rue Paul-Bellamy, Nantes, 44000, France",
         "price": "22-98EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 2 40 20 32 28",
+        "phone": "02 40 20 32 28",
         "website": "http://www.restaurant-oceanide.fr",
         "experience": "Confortable"
     },
@@ -1912,7 +1912,7 @@
         "adress": "20 boulevard Jean-Jaurès, Béziers, 34500, France",
         "price": "23-55EUR",
         "type": "Cuisine méditerranéenne",
-        "phone": "tel:+33 4 48 11 03 40",
+        "phone": "04 48 11 03 40",
         "experience": "Assez confortable"
     },
     {
@@ -1921,7 +1921,7 @@
         "adress": "9 route des Grottes-Pétrifiantes, Savonnières, 37510, France",
         "price": "34-110EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 50 30 05",
+        "phone": "02 47 50 30 05",
         "website": "http://www.lamaisontourangelle.com",
         "experience": "Confortable"
     },
@@ -1931,7 +1931,7 @@
         "adress": "30 Rue de l'Hôtel de Ville, Montendre, 17130, France",
         "price": "22-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 46 70 42 41",
+        "phone": "05 46 70 42 41",
         "website": "http://restaurantlaquincaillerie.eatbu.com",
         "experience": "Assez confortable"
     },
@@ -1941,7 +1941,7 @@
         "adress": "15 boulevard Ledru-Rollin, Montpellier, 34000, France",
         "price": "25-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 83 22 42 61",
+        "phone": "09 83 22 42 61",
         "website": "http://www.bistrourbain.com",
         "experience": "Assez confortable"
     },
@@ -1951,7 +1951,7 @@
         "adress": "15 rue de la Poste, Ploufragan, 22440, France",
         "price": "19-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 96 01 59 37",
+        "phone": "02 96 01 59 37",
         "website": "http://lebrezoune.fr",
         "experience": "Assez confortable"
     },
@@ -1961,7 +1961,7 @@
         "adress": "1 boulevard de l'Hypéron, Bagnères-de-Bigorre, 65200, France",
         "price": "21-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 62 91 07 95",
+        "phone": "05 62 91 07 95",
         "website": "http://www.lejardindesbrouches.fr",
         "experience": "Confortable"
     },
@@ -1971,7 +1971,7 @@
         "adress": "1 rue Roger-Salengro, Liessies, 59740, France",
         "price": "34-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 27 61 80 21",
+        "phone": "03 27 61 80 21",
         "website": "http://www.le-carillon.com",
         "experience": "Confortable"
     },
@@ -1981,7 +1981,7 @@
         "adress": "3 Rue du 8 Mai 1945, La Roche-l'Abeille, 87800, France",
         "price": "33-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 55 00 22 03",
+        "phone": "05 55 00 22 03",
         "website": "http://www.moulindelagorce.com",
         "experience": "Assez confortable"
     },
@@ -1991,7 +1991,7 @@
         "adress": "4 Hent-Koz, Quimper, 29000, France",
         "price": "26-85EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 98 94 50 02",
+        "phone": "02 98 94 50 02",
         "website": "http://www.restaurantticoz.com",
         "experience": "Confortable. Nos établissements de charme.",
         "maitre": true
@@ -2002,7 +2002,7 @@
         "adress": "8 place de l'Église, Messigny-et-Vantoux, 21380, France",
         "price": "22-32EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 80 35 45 22",
+        "phone": "03 80 35 45 22",
         "website": "http://www.restaurant-tilleuls.fr",
         "experience": "Assez confortable"
     },
@@ -2012,7 +2012,7 @@
         "adress": "9 rue Gambetta, Langeais, 37130, France",
         "price": "33-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 96 37 25",
+        "phone": "02 47 96 37 25",
         "website": "http://www.aucoindeshalles.com",
         "experience": "Assez confortable"
     },
@@ -2022,7 +2022,7 @@
         "adress": "21 avenue du Président-Georges-Pompidou, Chaudes-Aigues, 15110, France",
         "price": "32-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 71 60 10 23",
+        "phone": "04 71 60 10 23",
         "website": "http://www.sergevieira.com",
         "experience": "Assez confortable"
     },
@@ -2032,7 +2032,7 @@
         "adress": "7 chemin du Moulin, Monteils, 82300, France",
         "price": "21-58EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 63 93 03 51",
+        "phone": "05 63 93 03 51",
         "website": "http://www.leclosmonteils.fr",
         "experience": "Assez confortable"
     },
@@ -2042,7 +2042,7 @@
         "adress": "8 rue Danton, Lyon, 69003, France",
         "price": "25-56EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 37 48 00 10",
+        "phone": "04 37 48 00 10",
         "experience": "Assez confortable"
     },
     {
@@ -2051,7 +2051,7 @@
         "adress": "85 rue Nationale, Saint-André-de-Cubzac, 33240, France",
         "price": "17-40EUR",
         "type": "Cuisine Fusion",
-        "phone": "tel:+33 9 74 56 17 63",
+        "phone": "09 74 56 17 63",
         "website": "http://www.latabledinomoto.fr",
         "experience": "Assez confortable"
     },
@@ -2061,7 +2061,7 @@
         "adress": "48 route de Bergheim, Ribeauvillé, 68150, France",
         "price": "27-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 86 05 75",
+        "phone": "03 89 86 05 75",
         "website": "http://www.auberge-parc-carola.com",
         "experience": "Confortable"
     },
@@ -2071,7 +2071,7 @@
         "adress": "3 rue St-Augustin, Paris, 75002, France",
         "price": "29-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 45 08 13 76",
+        "phone": "01 45 08 13 76",
         "website": "http://www.loseille-bourse.com",
         "experience": "Assez confortable"
     },
@@ -2081,7 +2081,7 @@
         "adress": "2 rue Puada dau Gourguet, Peillon, 06440, France",
         "price": "22-42EUR",
         "type": "Cuisine régionale",
-        "phone": "tel:+33 4 93 87 06 01",
+        "phone": "04 93 87 06 01",
         "website": "http://www.lesplaisirs-peillon.com",
         "experience": "Assez confortable"
     },
@@ -2091,7 +2091,7 @@
         "adress": "15 avenue des Reynats, Chancelade, 24650, France",
         "price": "26EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 03 53 59",
+        "phone": "05 53 03 53 59",
         "website": "http://www.chateau-hotel-perigord.com",
         "experience": "Assez confortable"
     },
@@ -2101,7 +2101,7 @@
         "adress": "195 quai des Bateliers, Fondettes, 37230, France",
         "price": "23-78EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 47 42 24 04",
+        "phone": "02 47 42 24 04",
         "website": "http://www.auberge-de-port-vallieres.fr",
         "experience": "Confortable"
     },
@@ -2111,7 +2111,7 @@
         "adress": "chemin des Imberts, route de Salernes, Lorgues, 83510, France",
         "price": "33-57EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 94 60 43 51",
+        "phone": "04 94 60 43 51",
         "website": "http://www.chateauberne.com",
         "experience": "Assez confortable"
     },
@@ -2121,7 +2121,7 @@
         "adress": "2 rue Rogg-Haas, Sierentz, 68510, France",
         "price": "20-48EUR",
         "type": "Cuisine régionale",
-        "phone": "tel:+33 9 83 37 16 80",
+        "phone": "09 83 37 16 80",
         "website": "http://www.auberge-saintlaurent.fr",
         "experience": "Assez confortable"
     },
@@ -2131,7 +2131,7 @@
         "adress": "33 rue Principale, Treffort, 01370, France",
         "price": "14-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 74 51 39 94",
+        "phone": "04 74 51 39 94",
         "website": "http://www.voyagesdessens.com",
         "experience": "Confortable"
     },
@@ -2141,7 +2141,7 @@
         "adress": "10 rue Jules-Ferry, Saint-Brieuc, 22000, France",
         "price": "30-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 96 94 05 34",
+        "phone": "02 96 94 05 34",
         "website": "http://www.osaveurs-restaurant.com",
         "experience": "Confortable"
     },
@@ -2151,7 +2151,7 @@
         "adress": "52 boulevard de la Mer, Châtelaillon-Plage, 17340, France",
         "price": "31-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 46 56 23 42",
+        "phone": "05 46 56 23 42",
         "website": "http://www.les-flots.fr",
         "experience": "Assez confortable"
     },
@@ -2161,7 +2161,7 @@
         "adress": "2 place du Marché, La Chaize-Giraud, 85220, France",
         "price": "18-37EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 2 51 22 75 33",
+        "phone": "02 51 22 75 33",
         "website": "http://www.lachaizegourmande.com",
         "experience": "Assez confortable"
     },
@@ -2171,7 +2171,7 @@
         "adress": "36 rue des Boulangers, Paris, 75005, France",
         "price": "25-34EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 44 07 13 29",
+        "phone": "01 44 07 13 29",
         "website": "http://www.restaurantkokoro.blogspot.fr",
         "experience": "Assez confortable"
     },
@@ -2181,7 +2181,7 @@
         "adress": "Le Fornet, Val-d'Isère, 73150, France",
         "price": "33EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 79 00 21 42",
+        "phone": "04 79 00 21 42",
         "website": "http://www.atelier-edmond.com",
         "experience": "Assez confortable"
     },
@@ -2191,7 +2191,7 @@
         "adress": "15 route du Portelin, Cevins, 73730, France",
         "price": "23-82EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 79 37 49 98",
+        "phone": "04 79 37 49 98",
         "website": "http://www.restaurant-fleurdesel.fr",
         "experience": "Confortable",
         "maitre": true
@@ -2202,7 +2202,7 @@
         "adress": "16 rue de la Redoute, Haguenau, 67500, France",
         "price": "21-63EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 88 93 29 39",
+        "phone": "03 88 93 29 39",
         "website": "http://www.lejardinhaguenau.fr",
         "experience": "ô                                    Très confortable"
     },
@@ -2212,7 +2212,7 @@
         "adress": "25 rue de l'Usine, Montech, 82700, France",
         "price": "23-38EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 63 24 63 02",
+        "phone": "05 63 24 63 02",
         "website": "http://www.bistrotconstant.com",
         "experience": "Assez confortable"
     },
@@ -2222,7 +2222,7 @@
         "adress": "5 place Aristide-Briand, Couëron, 44220, France",
         "price": "18-57EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 40 38 32 32",
+        "phone": "02 40 38 32 32",
         "website": "http://www.francois2.com",
         "experience": "Confortable"
     },
@@ -2232,7 +2232,7 @@
         "adress": "663 route de Toulon, Hyères, 83400, France",
         "price": "32-76EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 94 35 35 16",
+        "phone": "04 94 35 35 16",
         "website": "http://www.restaurantlacolombe.com",
         "experience": "Confortable"
     },
@@ -2242,7 +2242,7 @@
         "adress": "30 rue du Maréchal-Leclerc, Saumur, 49400, France",
         "price": "21-40EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 41 51 20 88",
+        "phone": "02 41 51 20 88",
         "experience": "Assez confortable"
     },
     {
@@ -2251,7 +2251,7 @@
         "adress": "82 rue Saint-Pierre, Ancenis, 44150, France",
         "price": "18-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 40 98 89 64",
+        "phone": "02 40 98 89 64",
         "website": "http://www.latoileabeurre.com",
         "experience": "Assez confortable"
     },
@@ -2261,7 +2261,7 @@
         "adress": "Espace Ibarrondoan, Saint-Pée-sur-Nivelle, 64310, France",
         "price": "15-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 59 47 03 55",
+        "phone": "05 59 47 03 55",
         "website": "http://www.ttotta.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -2272,7 +2272,7 @@
         "adress": "18 rue Arney, Dole, 39100, France",
         "price": "21-60EUR",
         "type": "Cuisine japonaise",
-        "phone": "tel:+33 3 84 70 98 73",
+        "phone": "03 84 70 98 73",
         "website": "http://www.iida-ya.fr",
         "experience": "Assez confortable"
     },
@@ -2282,7 +2282,7 @@
         "adress": "30 Ar Palud, Landéda, 29870, France",
         "price": "23-90EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 2 98 04 96 77",
+        "phone": "02 98 04 96 77",
         "website": "http://www.vioben.com",
         "experience": "Assez confortable"
     },
@@ -2292,7 +2292,7 @@
         "adress": "22 rue de Verdun, Senonches, 28250, France",
         "price": "18-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 37 37 78 50",
+        "phone": "02 37 37 78 50",
         "website": "http://www.hoteldelaforet-senonches.com",
         "experience": "Confortable",
         "maitre": true
@@ -2303,7 +2303,7 @@
         "adress": "17 quai Maréchal-de-Lattre-de-Tassigny, Sète, 34200, France",
         "price": "33-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 74 71 91",
+        "phone": "04 67 74 71 91",
         "website": "http://www.legrandhotelsete.com",
         "experience": "Confortable"
     },
@@ -2313,7 +2313,7 @@
         "adress": "6 rue de la Herse, Le Pin-la-Garenne, 61400, France",
         "price": "17-49EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 33 83 80 33",
+        "phone": "02 33 83 80 33",
         "website": "http://lacroixdor.free.fr",
         "experience": "Confortable"
     },
@@ -2323,7 +2323,7 @@
         "adress": "14 rue de Monttessuy, Paris, 75007, France",
         "price": "37-85EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 47 05 46 11",
+        "phone": "01 47 05 46 11",
         "website": "http://www.aubonaccueilparis.com",
         "experience": "Confortable"
     },
@@ -2333,7 +2333,7 @@
         "adress": "2 route du Moulin-Fouret, à Saint-Aubin-le-Vertueux, Bernay, 27300, France",
         "price": "26-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 32 43 19 95",
+        "phone": "02 32 43 19 95",
         "website": "http://www.lemoulinfouret.fr",
         "experience": "Confortable"
     },
@@ -2343,7 +2343,7 @@
         "adress": "3 route du Frenz, Le Frenz, 68820, France",
         "price": "30-46EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 82 28 61",
+        "phone": "03 89 82 28 61",
         "website": "http://www.hotel4saisons.com",
         "experience": "Assez confortable"
     },
@@ -2353,7 +2353,7 @@
         "adress": "73 rue Masséna, Lyon, 69006, France",
         "price": "34-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 6 46 58 36 90",
+        "phone": "06 46 58 36 90",
         "website": "http://www.restaurant-semanteme-lyon.fr",
         "experience": "Assez confortable"
     },
@@ -2363,7 +2363,7 @@
         "adress": "1520 route de Genève, Vougy, 74130, France",
         "price": "33-66EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 4 50 34 03 50",
+        "phone": "04 50 34 03 50",
         "website": "http://www.lecapucingourmand.com",
         "experience": "Confortable"
     },
@@ -2373,7 +2373,7 @@
         "adress": "1 rue Marx-Dormoy, Montmarault, 03390, France",
         "price": "34-71EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 07 60 26",
+        "phone": "04 70 07 60 26",
         "website": "http://www.hoteldefrance-montmarault.com",
         "experience": "Confortable"
     },
@@ -2383,7 +2383,7 @@
         "adress": "3 cours du Palais, Privas, 07000, France",
         "price": "19-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 64 48 48",
+        "phone": "04 75 64 48 48",
         "website": "http://www.la-boria.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -2393,7 +2393,7 @@
         "adress": "rue de l'Ouest, Le Cannet, 06110, France",
         "price": "33-93EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 92 18 18 28",
+        "phone": "04 92 18 18 28",
         "website": "http://www.bruno-oger.com",
         "experience": "Assez confortable"
     },
@@ -2403,7 +2403,7 @@
         "adress": "52 rue Royale, Puymirol, 47270, France",
         "price": "33-42EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 53 95 31 46",
+        "phone": "05 53 95 31 46",
         "website": "http://www.aubergade.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -2413,7 +2413,7 @@
         "adress": "281 avenue Pas-de-Vent, Pouillon, 40350, France",
         "price": "13-52EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 58 98 34 65",
+        "phone": "05 58 98 34 65",
         "website": "http://www.auberge-dupasdevent.com",
         "experience": "Confortable"
     },
@@ -2423,7 +2423,7 @@
         "adress": "8 place Mendes-France, Épernay, 51200, France",
         "price": "27-54EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 26 58 88 19",
+        "phone": "03 26 58 88 19",
         "website": "http://www.epernay-rest-letheatre.com",
         "experience": "Confortable"
     },
@@ -2433,7 +2433,7 @@
         "adress": "139 rue du Jardin-Public, Bordeaux, 33000, France",
         "price": "35-63EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 5 56 15 90 40",
+        "phone": "05 56 15 90 40",
         "website": "http://www.cent33.com",
         "experience": "Assez confortable"
     },
@@ -2443,7 +2443,7 @@
         "adress": "48 boulevard de la Liberté, Rennes, 35000, France",
         "price": "17EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 9 52 84 33 61",
+        "phone": "09 52 84 33 61",
         "website": "http://restaurantlapetiteourse.com",
         "experience": "Assez confortable"
     },
@@ -2453,7 +2453,7 @@
         "adress": "21 quai St-Nicolas, Strasbourg, 67000, France",
         "price": "29-45EUR",
         "type": "Cuisine alsacienne",
-        "phone": "tel:+33 3 88 35 60 68",
+        "phone": "03 88 35 60 68",
         "experience": "Assez confortable"
     },
     {
@@ -2462,7 +2462,7 @@
         "adress": "13 place du Général-de-Gaulle, Wambrechies, 59118, France",
         "price": "33-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 20 93 68 55",
+        "phone": "03 20 93 68 55",
         "website": "http://www.balsamique-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -2472,7 +2472,7 @@
         "adress": "500 route de Robion, Taillades, 84300, France",
         "price": "18-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 72 37 55",
+        "phone": "04 90 72 37 55",
         "website": "http://www.latelierlartdesmets.fr",
         "experience": "Assez confortable"
     },
@@ -2482,7 +2482,7 @@
         "adress": "455 Littoral Frédéric-Mistral, Toulon, 83000, France",
         "price": "35EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 20 61 32",
+        "phone": "04 94 20 61 32",
         "website": "http://www.restaurant-lelocal.fr",
         "experience": "Assez confortable"
     },
@@ -2492,7 +2492,7 @@
         "adress": "Le Bourg, Servon, 50170, France",
         "price": "25-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 33 60 17 92",
+        "phone": "02 33 60 17 92",
         "experience": "Confortable"
     },
     {
@@ -2501,7 +2501,7 @@
         "adress": "21 rue de la République, Thuir, 66300, France",
         "price": "18-46EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 68 34 46 64",
+        "phone": "04 68 34 46 64",
         "website": "http://www.arbequina-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -2511,7 +2511,7 @@
         "adress": "10 place de la Libération, Balma, 31130, France",
         "price": "25-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 45 70 43",
+        "phone": "05 61 45 70 43",
         "website": "http://www.restaurant-lequilibre.fr",
         "experience": "Assez confortable"
     },
@@ -2521,7 +2521,7 @@
         "adress": "1 rue Fénelon, Bergerac, 24100, France",
         "price": "28-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 61 34 06",
+        "phone": "05 53 61 34 06",
         "experience": "Assez confortable"
     },
     {
@@ -2530,7 +2530,7 @@
         "adress": "1 digue Gaston-Berthe, Calais, 62100, France",
         "price": "22-68EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 3 21 34 68 07",
+        "phone": "03 21 34 68 07",
         "website": "http://www.cotedargent.com",
         "experience": "Confortable"
     },
@@ -2540,7 +2540,7 @@
         "adress": "7 place du Champ-de-Foire, Chénérailles, 23130, France",
         "price": "25-61EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 62 30 83",
+        "phone": "05 55 62 30 83",
         "website": "http://www.restaurant-coqdor-23.com",
         "experience": "Confortable"
     },
@@ -2550,7 +2550,7 @@
         "adress": "11 rue de la République, Bourg-en-Bresse, 01000, France",
         "price": "19-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 74 45 20 78",
+        "phone": "04 74 45 20 78",
         "website": "http://www.restaurant-metsetvins.com",
         "experience": "Confortable"
     },
@@ -2560,7 +2560,7 @@
         "adress": "10 rue Alfred-Hartmann, Munster, 68140, France",
         "price": "20-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 77 15 15",
+        "phone": "03 89 77 15 15",
         "website": "http://www.vertevallee.com",
         "experience": "ô                                    Très confortable"
     },
@@ -2570,7 +2570,7 @@
         "adress": "7 rue du Lycée, Nice, 06000, France",
         "price": "30-33EUR",
         "type": "Cuisine végétarienne",
-        "phone": "tel:+33 4 93 81 32 98",
+        "phone": "04 93 81 32 98",
         "website": "http://www.restaurant-vegan.fr",
         "experience": "Assez confortable"
     },
@@ -2580,7 +2580,7 @@
         "adress": "27 rue de la Tour, Chamonix-Mont-Blanc, 74400, France",
         "price": "28-69EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 50 47 04 66",
+        "phone": "04 50 47 04 66",
         "website": "http://www.restaurant-latelecabine.fr",
         "experience": "Confortable"
     },
@@ -2590,7 +2590,7 @@
         "adress": "153 avenue de la Pointe, Cap-Coz, 29170, France",
         "price": "34-106EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 98 56 01 63",
+        "phone": "02 98 56 01 63",
         "experience": "Confortable"
     },
     {
@@ -2599,7 +2599,7 @@
         "adress": "Parc d'activités de Kernours, Kervignac, 56700, France",
         "price": "19-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 97 36 28 74",
+        "phone": "02 97 36 28 74",
         "experience": "Confortable"
     },
     {
@@ -2608,7 +2608,7 @@
         "adress": "13 boulevard Jean-Mathon, Aubenas, 07200, France",
         "price": "23-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 35 01 28",
+        "phone": "04 75 35 01 28",
         "website": "http://www.restaurant-aubepine.fr",
         "experience": "Assez confortable"
     },
@@ -2618,7 +2618,7 @@
         "adress": "Le Bourg, Bardigues, 82340, France",
         "price": "25-52EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 39 05 58",
+        "phone": "05 63 39 05 58",
         "website": "http://www.aubergedebardigues.com",
         "experience": "Assez confortable"
     },
@@ -2628,7 +2628,7 @@
         "adress": "4 rue de l'Abattoir, Sainte-Foy-la-Grande, 33220, France",
         "price": "27-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 57 46 14 02",
+        "phone": "05 57 46 14 02",
         "website": "http://www.cote-bastide.org",
         "experience": "Confortable"
     },
@@ -2638,7 +2638,7 @@
         "adress": "22 quai Caligny, Cherbourg-en-Cotentin, 50100, France",
         "price": "25-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 33 43 10 11",
+        "phone": "02 33 43 10 11",
         "website": "http://www.levauban-cherbourg.fr",
         "experience": "Confortable"
     },
@@ -2648,7 +2648,7 @@
         "adress": "624 rue du Centre, Les Gets, 74260, France",
         "price": "33-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 80 62 53",
+        "phone": "04 50 80 62 53",
         "experience": "Confortable"
     },
     {
@@ -2657,7 +2657,7 @@
         "adress": "1 rue du Boulanger, Mirmande, 26270, France",
         "price": "20-44EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 63 02 72",
+        "phone": "04 75 63 02 72",
         "website": "http://www.lacapitelle.com",
         "experience": "Assez confortable"
     },
@@ -2667,7 +2667,7 @@
         "adress": "Le Bourg, Saint-Avit-Sénieur, 24440, France",
         "price": "33-42EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 57 89 15",
+        "phone": "05 53 57 89 15",
         "website": "http://www.latabledeleo.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -2678,7 +2678,7 @@
         "adress": "172 bis rue du Faubourg-St-Antoine, Paris, 75012, France",
         "price": "24-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 56 58 04 73",
+        "phone": "01 56 58 04 73",
         "website": "http://www.jouvence.paris",
         "experience": "Assez confortable"
     },
@@ -2688,7 +2688,7 @@
         "adress": "Place Saint-Maurice, Annecy, 74000, France",
         "price": "25-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 57 09 10 54",
+        "phone": "04 57 09 10 54",
         "website": "http://www.restaurant-1ermets.fr",
         "experience": "Assez confortable"
     },
@@ -2698,7 +2698,7 @@
         "adress": "3 rue de la Libération, Étupes, 25460, France",
         "price": "26-66EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 81 94 17 12",
+        "phone": "03 81 94 17 12",
         "website": "http://www.aufildessaisons.eu",
         "experience": "Assez confortable"
     },
@@ -2708,7 +2708,7 @@
         "adress": "10 rue de Belzunce, Paris, 75010, France",
         "price": "35-38EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 44 53 06 20",
+        "phone": "01 44 53 06 20",
         "website": "http://www.restaurantchezmichel.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -2719,7 +2719,7 @@
         "adress": "7 rue du 11-novembre, Cogolin, 83310, France",
         "price": "25-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 54 60 97",
+        "phone": "04 94 54 60 97",
         "website": "http://www.grangeagapes.com",
         "experience": "Confortable"
     },
@@ -2729,7 +2729,7 @@
         "adress": "100 boulevard de la République, La Garenne-Colombes, 92250, France",
         "price": "35-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 42 42 64 49",
+        "phone": "01 42 42 64 49",
         "website": "http://www.lesaintjoseph-restaurant.fr",
         "experience": "Assez confortable"
     },
@@ -2739,7 +2739,7 @@
         "adress": "23 place de la Libération, Sommières, 30250, France",
         "price": "25-66EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 66 77 50 98",
+        "phone": "04 66 77 50 98",
         "website": "http://www.le-patio-by-lou-caleou.com",
         "experience": "Assez confortable"
     },
@@ -2749,7 +2749,7 @@
         "adress": "5 rue Étienne-de-Vesc, Vesc, 26220, France",
         "price": "34-57EUR",
         "type": "Cuisine du terroir",
-        "phone": "tel:+33 4 75 04 20 74",
+        "phone": "04 75 04 20 74",
         "website": "http://www.chezmonjules.com",
         "experience": "Assez confortable"
     },
@@ -2759,7 +2759,7 @@
         "adress": "quartier du Port, Guiche, 64520, France",
         "price": "31-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 59 56 46 63",
+        "phone": "05 59 56 46 63",
         "website": "http://www.restaurant-le-gantxo.fr",
         "experience": "Assez confortable"
     },
@@ -2769,7 +2769,7 @@
         "adress": "98 route des Vins, Itterswiller, 67140, France",
         "price": "24-60EUR",
         "type": "Cuisine alsacienne",
-        "phone": "tel:+33 3 88 85 50 58",
+        "phone": "03 88 85 50 58",
         "website": "http://www.hotel-arnold.com",
         "experience": "Confortable"
     },
@@ -2779,7 +2779,7 @@
         "adress": "5 chemin Barjavel, Condorcet, 26110, France",
         "price": "26-58EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 75 27 72 33",
+        "phone": "04 75 27 72 33",
         "website": "http://www.lacharrettebleue.net",
         "experience": "Assez confortable"
     },
@@ -2789,7 +2789,7 @@
         "adress": "16 avenue Lamartine, Maillane, 13910, France",
         "price": "34-58EUR",
         "type": "Cuisine provençale",
-        "phone": "tel:+33 4 90 95 74 60",
+        "phone": "04 90 95 74 60",
         "website": "http://www.restaurant-saint-remy-de-provence.fr",
         "experience": "Confortable"
     },
@@ -2799,7 +2799,7 @@
         "adress": "hameau de Castagneto, San-Martino-di-Lota, 20200, France",
         "price": "34-80EUR",
         "type": "Cuisine corse",
-        "phone": "tel:+33 4 95 31 40 98",
+        "phone": "04 95 31 40 98",
         "website": "http://www.hotel-lacorniche.com",
         "experience": "Confortable"
     },
@@ -2809,7 +2809,7 @@
         "adress": "2 rue du Lavoir, Chédigny, 37310, France",
         "price": "32-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 92 20 29",
+        "phone": "02 47 92 20 29",
         "website": "http://www.leclosauxroses.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -2819,7 +2819,7 @@
         "adress": "23 rue Tête-de-Boeuf, Dieppe, 76200, France",
         "price": "30-45EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 2 35 84 68 57",
+        "phone": "02 35 84 68 57",
         "website": "http://www.le-bistrot-du-pollet.zenchef.com",
         "experience": "Assez confortable"
     },
@@ -2829,7 +2829,7 @@
         "adress": "1 rue de l'Église, Zimmerbach, 68230, France",
         "price": "16-47EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 89 71 05 69",
+        "phone": "03 89 71 05 69",
         "website": "http://www.raisindor.fr",
         "experience": "Assez confortable"
     },
@@ -2839,7 +2839,7 @@
         "adress": "4 rue des Ormelets, Ploubalay, 22650, France",
         "price": "22-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 96 27 25 16",
+        "phone": "02 96 27 25 16",
         "website": "http://www.restaurant-la-gare-ploubalay.com",
         "experience": "Confortable"
     },
@@ -2849,7 +2849,7 @@
         "adress": "16 rue des Minimes, Clermont-Ferrand, 63000, France",
         "price": "18-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 29 16 16",
+        "phone": "04 73 29 16 16",
         "website": "http://www.restaurant-bistrotdacote.fr",
         "experience": "Assez confortable"
     },
@@ -2859,7 +2859,7 @@
         "adress": "8 rue d'en Boyer, Saint-Lieux-lès-Lavaur, 81500, France",
         "price": "15-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 41 32 47",
+        "phone": "05 63 41 32 47",
         "website": "http://www.restaurantlecolvert.com",
         "experience": "Confortable"
     },
@@ -2869,7 +2869,7 @@
         "adress": "48 avenue Jean-Charles-Mallet, Mougins, 06250, France",
         "price": "29-77EUR",
         "type": "Cuisine provençale",
-        "phone": "tel:+33 4 93 90 00 91",
+        "phone": "04 93 90 00 91",
         "website": "http://www.amandier.fr",
         "experience": "Confortable"
     },
@@ -2879,7 +2879,7 @@
         "adress": "9 place du Théâtre, Puteaux, 92800, France",
         "price": "36-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 41 37 00 00",
+        "phone": "01 41 37 00 00",
         "website": "http://www.saperlipopette1.fr",
         "experience": "Confortable"
     },
@@ -2889,7 +2889,7 @@
         "adress": "52 rue Henri-Deglin, Nancy, 54000, France",
         "price": "22-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 83 22 37 18",
+        "phone": "03 83 22 37 18",
         "website": "http://www.madamerestaurant.fr",
         "experience": "Assez confortable"
     },
@@ -2899,7 +2899,7 @@
         "adress": "Lieu-dit La Gaillotière, Château-Thébaud, 44690, France",
         "price": "15-29EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 28 21 31 16",
+        "phone": "02 28 21 31 16",
         "website": "http://www.auberge-la-gaillotiere.fr",
         "experience": "Confortable"
     },
@@ -2909,7 +2909,7 @@
         "adress": "512 rue Abbé-Alix, Hérouville-Saint-Clair, 14200, France",
         "price": "22-63EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 44 97 10",
+        "phone": "02 31 44 97 10",
         "website": "http://www.esperance-stephanecarbone.fr",
         "experience": "Confortable"
     },
@@ -2919,7 +2919,7 @@
         "adress": "13 place Georges-Gaudet, Geneston, 44140, France",
         "price": "30-51EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 40 04 77 88",
+        "phone": "02 40 04 77 88",
         "website": "http://www.restaurantlepelican.fr",
         "experience": "Confortable"
     },
@@ -2929,7 +2929,7 @@
         "adress": "8 rue Burnol, Vichy, 03200, France",
         "price": "29-77EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 98 99 71",
+        "phone": "04 70 98 99 71",
         "experience": "Confortable"
     },
     {
@@ -2938,7 +2938,7 @@
         "adress": "167 route de Limoges, Orcines, 63870, France",
         "price": "33-66EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 73 62 10 52",
+        "phone": "04 73 62 10 52",
         "website": "http://www.auberge.fr",
         "experience": "Assez confortable"
     },
@@ -2948,7 +2948,7 @@
         "adress": "1 rue de Laval, Richardménil, 54630, France",
         "price": "32-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 83 25 62 10",
+        "phone": "03 83 25 62 10",
         "website": "http://www.aubonaccueil-restaurant.com",
         "experience": "Confortable"
     },
@@ -2958,7 +2958,7 @@
         "adress": "185 route de Lyon, Illkirch-Graffenstaden, 67400, France",
         "price": "30-39EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 88 66 06 58",
+        "phone": "03 88 66 06 58",
         "website": "http://www.agneau-illkirch.fr",
         "experience": "Confortable"
     },
@@ -2968,7 +2968,7 @@
         "adress": "2 rue Voltaire, Périgueux, 24000, France",
         "price": "24-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 04 56 71",
+        "phone": "05 53 04 56 71",
         "website": "http://www.restaurant-perigueux-atelier.com",
         "experience": "Assez confortable"
     },
@@ -2978,7 +2978,7 @@
         "adress": "280 allée du Jeune-Bayard, Saint-Martin-d'Uriage, 38410, France",
         "price": "33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 58 17 48 30",
+        "phone": "04 58 17 48 30",
         "website": "http://www.maisonaribert.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -2988,7 +2988,7 @@
         "adress": "31 rue André-Gillet, Châteaudun, 28200, France",
         "price": "33-68EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 37 45 74 40",
+        "phone": "02 37 45 74 40",
         "website": "http://www.aux-trois-pastoureaux.fr",
         "experience": "Confortable"
     },
@@ -2998,7 +2998,7 @@
         "adress": "50 place de l'Aiguille-du-Midi, Chamonix-Mont-Blanc, 74400, France",
         "price": "34-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 50 54 55 56",
+        "phone": "04 50 54 55 56",
         "website": "http://restaurant-akashon.com",
         "experience": "Assez confortable"
     },
@@ -3008,7 +3008,7 @@
         "adress": "9 rue du Robinet, Noirmoutier-en-l'Île, 85330, France",
         "price": "32-40EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 51 54 93 95",
+        "phone": "02 51 54 93 95",
         "website": "https://lassietteaujardin.fr",
         "experience": "Assez confortable"
     },
@@ -3018,7 +3018,7 @@
         "adress": "24 Grand'Rue, Puy-l'Évêque, 46700, France",
         "price": "15-35EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 86 31 80 88",
+        "phone": "09 86 31 80 88",
         "website": "http://www.lemedieval-puyleveque.fr",
         "experience": "Assez confortable"
     },
@@ -3028,7 +3028,7 @@
         "adress": "97 rue des Prés, Les Saisies, 73620, France",
         "price": "32-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 79 89 26 15",
+        "phone": "04 79 89 26 15",
         "website": "http://www.latabledesarmaillis.fr",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -3038,7 +3038,7 @@
         "adress": "place du 8-Mai-1945, Port-Lesney, 39330, France",
         "price": "32EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 84 37 83 27",
+        "phone": "03 84 37 83 27",
         "website": "http://www.bistrotdeportlesney.com",
         "experience": "Assez confortable"
     },
@@ -3048,7 +3048,7 @@
         "adress": "13 quai du Docteur-Jules-Bouvat, Saint-Péray, 07130, France",
         "price": "24-35EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 82 40 44 38",
+        "phone": "09 82 40 44 38",
         "website": "http://www.laruche-saintperay.com",
         "experience": "Assez confortable"
     },
@@ -3058,7 +3058,7 @@
         "adress": "66 rue Bernard-Palissy, Gien, 45500, France",
         "price": "27-30EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 38 67 84 40",
+        "phone": "02 38 67 84 40",
         "website": "http://www.ptitbouchon.fr",
         "experience": "Assez confortable"
     },
@@ -3068,7 +3068,7 @@
         "adress": "Pigna, 20220, France",
         "price": "25-50EUR",
         "type": "Cuisine corse",
-        "phone": "tel:+33 4 95 32 71 24",
+        "phone": "04 95 32 71 24",
         "website": "http://www.amandria.com",
         "experience": "Assez confortable"
     },
@@ -3078,7 +3078,7 @@
         "adress": "Place de la République, Villefranche-de-Rouergue, 12200, France",
         "price": "18-68EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 5 65 45 15 63",
+        "phone": "05 65 45 15 63",
         "website": "http://www.lunivers-villefranche.com",
         "experience": "Assez confortable"
     },
@@ -3088,7 +3088,7 @@
         "adress": "10 avenue de la Côte-Vermeille, Laroque-des-Albères, 66740, France",
         "price": "33-39EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 34 12 36 51",
+        "phone": "04 34 12 36 51",
         "website": "http://www.cotesaisons.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -3098,7 +3098,7 @@
         "adress": "23 place St-Michel, Juvigny-sous-Andaine, 61140, France",
         "price": "22-62EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 2 33 38 10 04",
+        "phone": "02 33 38 10 04",
         "website": "http://www.aubonaccueil-normand.com",
         "experience": "Confortable"
     },
@@ -3108,7 +3108,7 @@
         "adress": "1 rue de Bisel, Feldbach, 68640, France",
         "price": "23-56EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 89 25 81 86",
+        "phone": "03 89 25 81 86",
         "website": "http://www.cheval-blanc-feldbach.fr",
         "experience": "Confortable",
         "maitre": true
@@ -3119,7 +3119,7 @@
         "adress": "21 rue du Docteur-Louis-Marçon, Bandol, 83150, France",
         "price": "33-78EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 05 85 29",
+        "phone": "04 94 05 85 29",
         "website": "http://www.lesperance-bandol.com",
         "experience": "Confortable"
     },
@@ -3129,7 +3129,7 @@
         "adress": "Sous la Grande Vigne, La Roque-Gageac, 24250, France",
         "price": "25-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 29 58 53",
+        "phone": "05 53 29 58 53",
         "website": "http://www.o-plaisirdessens.com",
         "experience": "Confortable",
         "maitre": true
@@ -3140,7 +3140,7 @@
         "adress": "40 rue du Maréchal-Foch, Belleville, 69220, France",
         "price": "19-46EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 74 66 05 31",
+        "phone": "04 74 66 05 31",
         "website": "http://www.restaurant-le-beaujolais.com",
         "experience": "Assez confortable"
     },
@@ -3150,7 +3150,7 @@
         "adress": "1 place de la République, Gasny, 27620, France",
         "price": "33-74EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 32 52 10 01",
+        "phone": "02 32 52 10 01",
         "website": "http://www.aubergeduprieurenormand.com",
         "experience": "Confortable"
     },
@@ -3160,7 +3160,7 @@
         "adress": "45 rue de Sèze, Lyon, 69006, France",
         "price": "25-44EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 78 37 37 97",
+        "phone": "04 78 37 37 97",
         "website": "http://www.lejeanmoulin-lyon.com",
         "experience": "Assez confortable"
     },
@@ -3170,7 +3170,7 @@
         "adress": "route du col d'Ispéguy, Saint-Étienne-de-Baïgorry, 64430, France",
         "price": "32-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 59 37 40 14",
+        "phone": "05 59 37 40 14",
         "website": "http://www.hotel-arce.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -3180,7 +3180,7 @@
         "adress": "1 place du Bouffay, La Roche-Bernard, 56130, France",
         "price": "24-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 99 90 60 75",
+        "phone": "02 99 90 60 75",
         "website": "http://www.aubergedesdeuxmagots.fr",
         "experience": "Confortable",
         "maitre": true
@@ -3191,7 +3191,7 @@
         "adress": "15 bis rue St-Firmin, Montpellier, 34000, France",
         "price": "26-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 67 91 86",
+        "phone": "04 67 67 91 86",
         "website": "http://www.artichaut-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -3201,7 +3201,7 @@
         "adress": "route de Meyrueis, Le Rozier, 48150, France",
         "price": "29-39EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 62 60 25",
+        "phone": "05 65 62 60 25",
         "website": "http://www.hotel-doussiere.com",
         "experience": "Assez confortable"
     },
@@ -3211,7 +3211,7 @@
         "adress": "6 rue Jules-Chalande, Toulouse, 31000, France",
         "price": "22-32EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 67 06 54 08",
+        "phone": "05 67 06 54 08",
         "website": "http://lairdefamilletoulouse.wordpress.com",
         "experience": "Assez confortable"
     },
@@ -3221,7 +3221,7 @@
         "adress": "132 cours Genet, Saintes, 17100, France",
         "price": "34-89EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 46 93 50 99",
+        "phone": "05 46 93 50 99",
         "website": "http://www.relaisdubois.com",
         "experience": "ô                                    Très confortable"
     },
@@ -3231,7 +3231,7 @@
         "adress": "Place Louis Fontanges, Villefranche-de-Rouergue, 12200, France",
         "price": "23-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 65 83 64",
+        "phone": "05 65 65 83 64",
         "website": "http://www.cote-saveurs.fr",
         "experience": "Confortable"
     },
@@ -3241,7 +3241,7 @@
         "adress": "7 route de Mâcon, Cluny, 71250, France",
         "price": "29-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 85 59 05 65",
+        "phone": "03 85 59 05 65",
         "website": "http://www.hostelleriedheloise.com",
         "experience": "Confortable"
     },
@@ -3251,7 +3251,7 @@
         "adress": "94 rue de Guernevé, Saint-Gildas-de-Rhuys, 56730, France",
         "price": "29-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 45 25 25",
+        "phone": "02 97 45 25 25",
         "website": "http://www.levertdo.fr",
         "experience": "Confortable"
     },
@@ -3261,7 +3261,7 @@
         "adress": "42 place Jean-Jaurès, Albi, 81000, France",
         "price": "22-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 53 10 70",
+        "phone": "05 63 53 10 70",
         "website": "http://www.restaurantlepicurien.com",
         "experience": "Confortable",
         "maitre": true
@@ -3272,7 +3272,7 @@
         "adress": "route côtière D152, Guidel, 56520, France",
         "price": "20-38EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 32 42 07",
+        "phone": "02 97 32 42 07",
         "experience": "Confortable"
     },
     {
@@ -3281,7 +3281,7 @@
         "adress": "106 rue de la Folie-Méricourt, Paris, 75011, France",
         "price": "36-72EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 43 57 33 78",
+        "phone": "01 43 57 33 78",
         "website": "http://www.auberge-pyrenees-cevennes.fr",
         "experience": "Assez confortable"
     },
@@ -3291,7 +3291,7 @@
         "adress": "156 rue de Créqui, Lyon, 69003, France",
         "price": "31-64EUR",
         "type": "Cuisine lyonnaise",
-        "phone": "tel:+33 4 78 60 66 53",
+        "phone": "04 78 60 66 53",
         "website": "http://www.daniel-et-denise.fr",
         "experience": "Assez confortable"
     },
@@ -3301,7 +3301,7 @@
         "adress": "17 rue Haute, Honfleur, 14600, France",
         "price": "34-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 89 01 92",
+        "phone": "02 31 89 01 92",
         "website": "http://www.lafleurdesel-honfleur.com",
         "experience": "Confortable"
     },
@@ -3321,7 +3321,7 @@
         "adress": "8 rue Auguste-Fabre, Saint-Chamas, 13250, France",
         "price": "31-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 50 84 40",
+        "phone": "04 90 50 84 40",
         "website": "http://www.restaurant-le-rabelais.com",
         "experience": "Confortable",
         "maitre": true
@@ -3332,7 +3332,7 @@
         "adress": "10 rue Saulnier, Paris, 75009, France",
         "price": "25-40EUR",
         "type": "Cuisine japonaise",
-        "phone": "tel:+33 1 45 23 51 68",
+        "phone": "01 45 23 51 68",
         "experience": "Assez confortable"
     },
     {
@@ -3341,7 +3341,7 @@
         "adress": "2590 route de Bailleul, Caëstre, 59190, France",
         "price": "19-33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 28 40 25 25",
+        "phone": "03 28 40 25 25",
         "website": "http://www.laubergecaestre.com",
         "experience": "Assez confortable"
     },
@@ -3351,7 +3351,7 @@
         "adress": "28 rue Peyrolières, Toulouse, 31000, France",
         "price": "26-33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 38 50 79",
+        "phone": "05 61 38 50 79",
         "website": "http://www.nino-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -3361,7 +3361,7 @@
         "adress": "avenue de Biarritz, Bidart, 64210, France",
         "price": "32EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 59 22 58 81",
+        "phone": "05 59 22 58 81",
         "experience": "Assez confortable"
     },
     {
@@ -3370,7 +3370,7 @@
         "adress": "Rue du Vert, Wierre-Effroy, 62720, France",
         "price": "34-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 21 87 67 00",
+        "phone": "03 21 87 67 00",
         "website": "http://www.fermeduvert.com",
         "experience": "Assez confortable"
     },
@@ -3380,7 +3380,7 @@
         "adress": "52 rue du Lavoir, Chabrits, 48000, France",
         "price": "25-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 66 49 31 54",
+        "phone": "04 66 49 31 54",
         "website": "http://www.restaurant-la-safraniere.fr",
         "experience": "Confortable"
     },
@@ -3390,7 +3390,7 @@
         "adress": "1 rue Saint-Joseph, Tournon-sur-Rhône, 07300, France",
         "price": "32-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 08 91 02",
+        "phone": "04 75 08 91 02",
         "website": "http://www.lecerisier-restaurant.fr",
         "experience": "Confortable"
     },
@@ -3400,7 +3400,7 @@
         "adress": "2 rue des Bouchers, Bayeux, 14400, France",
         "price": "33-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 92 03 01",
+        "phone": "02 31 92 03 01",
         "website": "http://www.langlesaintlaurent.com",
         "experience": "Confortable"
     },
@@ -3410,7 +3410,7 @@
         "adress": "7 rue Pailleron, Lyon, 69004, France",
         "price": "23-44EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 78 29 14 93",
+        "phone": "04 78 29 14 93",
         "website": "http://www.substrat-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -3420,7 +3420,7 @@
         "adress": "8 rue du 11-Novembre, Apremont, 60300, France",
         "price": "32-99EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 3 44 25 33 79",
+        "phone": "03 44 25 33 79",
         "website": "http://www.lagrangeauxloups.com",
         "experience": "Confortable"
     },
@@ -3430,7 +3430,7 @@
         "adress": "2 place du Port, Bourg-Charente, 16200, France",
         "price": "32EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 5 45 81 30 54",
+        "phone": "05 45 81 30 54",
         "website": "http://www.laribaudiere.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -3440,7 +3440,7 @@
         "adress": "2 Quartier de la Gare, Wœlfling-lès-Sarreguemines, 57200, France",
         "price": "30-94EUR",
         "type": "Cuisine actuelle",
-        "phone": "tel:+33 3 87 02 38 21",
+        "phone": "03 87 02 38 21",
         "experience": "Confortable"
     },
     {
@@ -3449,7 +3449,7 @@
         "adress": "25 Grande-Rue, Bonlieu, 39130, France",
         "price": "34-95EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 84 25 57 77",
+        "phone": "03 84 25 57 77",
         "website": "http://www.aubergedelapoutre.com",
         "experience": "Confortable"
     },
@@ -3459,7 +3459,7 @@
         "adress": "27 rue Rachais, Lyon, 69007, France",
         "price": "20-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 78 69 45 31",
+        "phone": "04 78 69 45 31",
         "experience": "Assez confortable"
     },
     {
@@ -3468,7 +3468,7 @@
         "adress": "Route de Nouzonville, Montcy-Notre-Dame, 08090, France",
         "price": "17-46EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 24 33 37 55",
+        "phone": "03 24 33 37 55",
         "website": "http://www.auberge-ardennes.com",
         "experience": "Confortable"
     },
@@ -3478,7 +3478,7 @@
         "adress": "8 rue de l'Abbé-Girard, Clermont-Ferrand, 63000, France",
         "price": "20-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 90 30 59",
+        "phone": "04 73 90 30 59",
         "website": "http://www.ungraindesaveur.fr",
         "experience": "Assez confortable"
     },
@@ -3488,7 +3488,7 @@
         "adress": "26 place du Châtelet, Orléans, 45000, France",
         "price": "19-42EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 38 62 07 50",
+        "phone": "02 38 62 07 50",
         "website": "http://www.restaurant-la-parenthese.com",
         "experience": "Assez confortable"
     },
@@ -3498,7 +3498,7 @@
         "adress": "Le bourg, Combes, 34240, France",
         "price": "25-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 95 66 55",
+        "phone": "04 67 95 66 55",
         "website": "http://www.aubergedecombes.com",
         "experience": "Assez confortable"
     },
@@ -3508,7 +3508,7 @@
         "adress": "5 place Charles-de-Gaulle, Pont-Sainte-Marie, 10150, France",
         "price": "19-63EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 25 80 90 99",
+        "phone": "03 25 80 90 99",
         "website": "http://www.bistrotdupont.com",
         "experience": "Assez confortable"
     },
@@ -3518,7 +3518,7 @@
         "adress": "1 place Philippe-Marcombes, Clermont-Ferrand, 63000, France",
         "price": "18-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 26 79 95",
+        "phone": "04 73 26 79 95",
         "website": "http://www.lechardonnay.fr",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -3538,7 +3538,7 @@
         "adress": "Grande-Rue, Coligny, 01270, France",
         "price": "23-108EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 74 30 10 07",
+        "phone": "04 74 30 10 07",
         "website": "http://www.aupetitrelais.fr",
         "experience": "Confortable"
     },
@@ -3548,7 +3548,7 @@
         "adress": "19 rue Principale, Graufthal, 67320, France",
         "price": "28-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 88 70 17 11",
+        "phone": "03 88 70 17 11",
         "experience": "Confortable"
     },
     {
@@ -3557,7 +3557,7 @@
         "adress": "14 rue Ferdinand-Flocon, Paris, 75018, France",
         "price": "25-45EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 9 86 37 80 77",
+        "phone": "09 86 37 80 77",
         "website": "http://www.lereciproque.com",
         "experience": "Assez confortable",
         "maitre": true
@@ -3568,7 +3568,7 @@
         "adress": "17 rue Joseph-Peala, Tain-l'Hermitage, 26600, France",
         "price": "24-61EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 75 07 05 90",
+        "phone": "04 75 07 05 90",
         "experience": "Assez confortable"
     },
     {
@@ -3577,7 +3577,7 @@
         "adress": "12 rue des Déportés, Chilleurs-aux-Bois, 45170, France",
         "price": "29-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 38 32 91 15",
+        "phone": "02 38 32 91 15",
         "website": "http://www.restaurantlelancelot.com",
         "experience": "Confortable",
         "maitre": true
@@ -3588,7 +3588,7 @@
         "adress": "67 montée du Château, Bressieux, 38870, France",
         "price": "32-76EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 74 20 91 01",
+        "phone": "04 74 20 91 01",
         "website": "http://www.aubergedebressieux.fr",
         "experience": "Confortable"
     },
@@ -3598,7 +3598,7 @@
         "adress": "58 rue de la Réunion, Paris, 75020, France",
         "price": "20-40EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 43 67 51 15",
+        "phone": "01 43 67 51 15",
         "experience": "Assez confortable"
     },
     {
@@ -3607,7 +3607,7 @@
         "adress": "33 rue des Cornières, Agen, 47000, France",
         "price": "16-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 53 95 67 59",
+        "phone": "05 53 95 67 59",
         "website": "http://www.restaurant-laffranchi.com",
         "experience": "Confortable"
     },
@@ -3617,7 +3617,7 @@
         "adress": "1 route de Marcenat, Billy, 03260, France",
         "price": "21-63EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 43 50 09",
+        "phone": "04 70 43 50 09",
         "website": "http://www.auberge-du-pont-billy.fr",
         "experience": "Assez confortable"
     },
@@ -3627,7 +3627,7 @@
         "adress": "Le bourg, Montgibaud, 19210, France",
         "price": "31-57EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 98 01 96",
+        "phone": "05 55 98 01 96",
         "experience": "Assez confortable"
     },
     {
@@ -3636,7 +3636,7 @@
         "adress": "7 place de l'Atre, Épinal, 88000, France",
         "price": "25-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 29 35 46 41",
+        "phone": "03 29 35 46 41",
         "website": "http://www.restaurant-inextremis.com",
         "experience": "Assez confortable"
     },
@@ -3646,7 +3646,7 @@
         "adress": "19 rue de Men-Meur, Guilvinec, 29730, France",
         "price": "20-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 98 58 23 83",
+        "phone": "02 98 58 23 83",
         "website": "http://www.lepoissondavril.fr",
         "experience": "Assez confortable"
     },
@@ -3656,7 +3656,7 @@
         "adress": "9 rue de Ponthieu, Paris, 75008, France",
         "price": "28-45EUR",
         "type": "Cuisine japonaise",
-        "phone": "tel:+33 1 71 26 77 28",
+        "phone": "01 71 26 77 28",
         "website": "http://www.udon-kisin.fr",
         "experience": "Assez confortable"
     },
@@ -3666,7 +3666,7 @@
         "adress": "1 rue Guizot, Nîmes, 30000, France",
         "price": "27-70EUR",
         "type": "Cuisine méditerranéenne",
-        "phone": "tel:+33 4 66 23 59 04",
+        "phone": "04 66 23 59 04",
         "experience": "Assez confortable"
     },
     {
@@ -3675,7 +3675,7 @@
         "adress": "15 rue Valette, Perpignan, 66000, France",
         "price": "25-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 68 67 07 44",
+        "phone": "04 68 67 07 44",
         "experience": "Assez confortable"
     },
     {
@@ -3684,7 +3684,7 @@
         "adress": "10 Route Nationale 23, Saint-Jean-de-Linières, 49070, France",
         "price": "24-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 41 39 72 21",
+        "phone": "02 41 39 72 21",
         "website": "http://www.auberge-de-la-roche.com",
         "experience": "Confortable"
     },
@@ -3694,7 +3694,7 @@
         "adress": "5 place Allard, Royat, 63130, France",
         "price": "25-88EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 35 63 63",
+        "phone": "04 73 35 63 63",
         "website": "http://www.princesse-flore-hotel.com",
         "experience": "Confortable"
     },
@@ -3704,7 +3704,7 @@
         "adress": "Palais des Évêques, Saint-Lizier, 09190, France",
         "price": "23-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 65 65 65",
+        "phone": "05 61 65 65 65",
         "website": "http://www.lecarredelange.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -3714,7 +3714,7 @@
         "adress": "87 rue Saint-Sauveur, Le Cannet, 06110, France",
         "price": "33-54EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 93 94 42 03",
+        "phone": "04 93 94 42 03",
         "website": "http://www.bistrotsaintsauveur.fr",
         "experience": "Assez confortable"
     },
@@ -3724,7 +3724,7 @@
         "adress": "40 rue des Filatiers, Toulouse, 31000, France",
         "price": "21-40EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 25 07 07",
+        "phone": "05 61 25 07 07",
         "website": "http://www.maisonmarius.com",
         "experience": "Assez confortable"
     },
@@ -3734,7 +3734,7 @@
         "adress": "avenue de la Gare, Cruzy, 34310, France",
         "price": "20-68EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 67 89 71 26",
+        "phone": "04 67 89 71 26",
         "website": "http://www.leterminus-cote-gare.fr",
         "experience": "Assez confortable"
     },
@@ -3744,7 +3744,7 @@
         "adress": "47 rue Pierre-Semard, Sète, 34200, France",
         "price": "34-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 74 97 73",
+        "phone": "04 67 74 97 73",
         "experience": "Assez confortable"
     },
     {
@@ -3753,7 +3753,7 @@
         "adress": "2 rue de l'Hôtel de Ville, Nice, 06300, France",
         "price": "30-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 93 80 21 64",
+        "phone": "04 93 80 21 64",
         "website": "http://www.finegueule.fr",
         "experience": "Assez confortable"
     },
@@ -3763,7 +3763,7 @@
         "adress": "98 rue Fondaudège, Bordeaux, 33000, France",
         "price": "22-58EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 57 83 38 24",
+        "phone": "05 57 83 38 24",
         "website": "http://www.metsmots.fr",
         "experience": "Assez confortable"
     },
@@ -3773,7 +3773,7 @@
         "adress": "13 rue Gerbier, Paris, 75011, France",
         "price": "20-36EUR",
         "type": "Cuisine italienne",
-        "phone": "tel:+33 9 81 01 81 10",
+        "phone": "09 81 01 81 10",
         "experience": "Assez confortable"
     },
     {
@@ -3782,7 +3782,7 @@
         "adress": "32 rue d'Aha, Mesquer, 44420, France",
         "price": "20-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 40 42 62 68",
+        "phone": "02 40 42 62 68",
         "website": "http://www.vieilleforge.fr",
         "experience": "Confortable"
     },
@@ -3792,7 +3792,7 @@
         "adress": "36 rue des Moulins-du-Tot, Clères, 76690, France",
         "price": "33-63EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 35 33 62 76",
+        "phone": "02 35 33 62 76",
         "website": "http://www.aubergedumoulin.org",
         "experience": "Confortable"
     },
@@ -3802,7 +3802,7 @@
         "adress": "4 boulevard Maréchal-Foch, Palavas-les-Flots, 34250, France",
         "price": "33-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 68 31 38",
+        "phone": "04 67 68 31 38",
         "website": "http://www.restaurant-st-georges.fr",
         "experience": "Confortable",
         "maitre": true
@@ -3813,7 +3813,7 @@
         "adress": "1 place St-Pallais, Saintes, 17100, France",
         "price": "19-55EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 5 46 94 17 91",
+        "phone": "05 46 94 17 91",
         "website": "http://www.saveurs-abbaye.com",
         "experience": "Confortable"
     },
@@ -3823,7 +3823,7 @@
         "adress": "9 rue des 3 Rois, Marseille, 13006, France",
         "price": "30EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 91 42 88 80",
+        "phone": "04 91 42 88 80",
         "experience": "Assez confortable"
     },
     {
@@ -3832,7 +3832,7 @@
         "adress": "7 rue du Puits, Honfleur, 14600, France",
         "price": "34-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 89 53 40",
+        "phone": "02 31 89 53 40",
         "website": "http://www.restaurant-lebreard.com",
         "experience": "Confortable"
     },
@@ -3842,7 +3842,7 @@
         "adress": "Route de Violès, Cairanne, 84290, France",
         "price": "28-79EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 66 35 99",
+        "phone": "04 90 66 35 99",
         "website": "http://www.coteauxetfourchettes.com",
         "experience": "Confortable"
     },
@@ -3852,7 +3852,7 @@
         "adress": "10 route Nationale 6, Valloux, 89200, France",
         "price": "29-66EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 86 34 23 34",
+        "phone": "03 86 34 23 34",
         "experience": "Confortable. Nos établissements de charme."
     },
     {
@@ -3861,7 +3861,7 @@
         "adress": "23 rue Melingue, Paris, 75019, France",
         "price": "27-36EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 53 19 80 98",
+        "phone": "01 53 19 80 98",
         "experience": "Assez confortable"
     },
     {
@@ -3870,7 +3870,7 @@
         "adress": "8 rue Nicolas-Larbaud, Vichy, 03200, France",
         "price": "30-52EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 70 59 12 71",
+        "phone": "04 70 59 12 71",
         "experience": "Assez confortable"
     },
     {
@@ -3879,7 +3879,7 @@
         "adress": "4 rue d'Autremont, Coulon, 79510, France",
         "price": "22-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 49 35 90 20",
+        "phone": "05 49 35 90 20",
         "website": "http://www.hotel-lecentral-coulon.com",
         "experience": "Confortable"
     },
@@ -3889,7 +3889,7 @@
         "adress": "1 route de Gabriac, Bozouls, 12340, France",
         "price": "21-46EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 65 44 92 27",
+        "phone": "05 65 44 92 27",
         "website": "http://www.laroutedargent.com",
         "experience": "Confortable"
     },
@@ -3899,7 +3899,7 @@
         "adress": "1 place de l'Océan, Saint-Palais-sur-Mer, 17420, France",
         "price": "33EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 46 23 10 32",
+        "phone": "05 46 23 10 32",
         "website": "http://www.hoteldelaplage-stpalais.fr",
         "experience": "Confortable"
     },
@@ -3909,7 +3909,7 @@
         "adress": "8 rue de l'Échelle, Paris, 75001, France",
         "price": "21-60EUR",
         "type": "Cuisine japonaise",
-        "phone": "tel:+33 1 42 61 93 99",
+        "phone": "01 42 61 93 99",
         "website": "http://www.restaurantzenparis.fr",
         "experience": "Assez confortable"
     },
@@ -3919,7 +3919,7 @@
         "adress": "27 rue de la Préfecture, Nice, 06300, France",
         "price": "28-54EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 93 85 29 57",
+        "phone": "04 93 85 29 57",
         "experience": "Assez confortable"
     },
     {
@@ -3928,7 +3928,7 @@
         "adress": "chemin du Village, Briscous, 64240, France",
         "price": "13-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 59 20 27 70",
+        "phone": "05 59 20 27 70",
         "website": "http://www.maisonjoanto-restaurant.fr",
         "experience": "Assez confortable"
     },
@@ -3938,7 +3938,7 @@
         "adress": "19 rue de Toulouse, Saint-Malo, 35400, France",
         "price": "22-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 99 40 82 05",
+        "phone": "02 99 40 82 05",
         "experience": "Assez confortable"
     },
     {
@@ -3947,7 +3947,7 @@
         "adress": "3 rue Bagier, Pupillin, 39600, France",
         "price": "33-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 84 37 49 44",
+        "phone": "03 84 37 49 44",
         "website": "http://www.legrapiot.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -3957,7 +3957,7 @@
         "adress": "Route d'Orange, Uchaux, 84100, France",
         "price": "26-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 40 66 08",
+        "phone": "04 90 40 66 08",
         "website": "http://www.restaurantcotesud.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -3967,7 +3967,7 @@
         "adress": "32 cours de la Vilaine, Cesson-Sévigné, 35510, France",
         "price": "21-54EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 99 83 82 06",
+        "phone": "02 99 83 82 06",
         "website": "http://www.restaurant-zest.fr",
         "experience": "Assez confortable"
     },
@@ -3977,7 +3977,7 @@
         "adress": "500 lieu-dit La Rochette, Labaroche, 68910, France",
         "price": "33-71EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 49 80 40",
+        "phone": "03 89 49 80 40",
         "website": "http://www.larochette-hotel.fr",
         "experience": "Confortable"
     },
@@ -3987,7 +3987,7 @@
         "adress": "le bourg, Irissarry, 64780, France",
         "price": "32-57EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 5 59 37 23 83",
+        "phone": "05 59 37 23 83",
         "website": "http://www.restaurant-art-zain.fr",
         "experience": "Assez confortable"
     },
@@ -3997,7 +3997,7 @@
         "adress": "39 rue Nationale, Coulombiers, 86600, France",
         "price": "33-85EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 49 60 90 15",
+        "phone": "05 49 60 90 15",
         "website": "http://www.centre-poitou.com",
         "experience": "Confortable"
     },
@@ -4007,7 +4007,7 @@
         "adress": "150 rue Jean-Mermoz, Marseille, 13008, France",
         "price": "26-41EUR",
         "type": "Cuisine méditerranéenne",
-        "phone": "tel:+33 4 91 71 16 52",
+        "phone": "04 91 71 16 52",
         "experience": "Assez confortable"
     },
     {
@@ -4016,7 +4016,7 @@
         "adress": "Route de Roquefraiche, Lauris, 84360, France",
         "price": "30-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 13 98 00 00",
+        "phone": "04 13 98 00 00",
         "website": "http://www.domainedefontenille.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -4026,7 +4026,7 @@
         "adress": "chemin de la Fontaine, Fontaine-de-Vaucluse, 84800, France",
         "price": "33-79EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 9 75 59 28 63",
+        "phone": "09 75 59 28 63",
         "experience": "Assez confortable"
     },
     {
@@ -4035,7 +4035,7 @@
         "adress": "3 rue d'Huisne, La Ferté-Bernard, 72400, France",
         "price": "22-85EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 43 93 00 39",
+        "phone": "02 43 93 00 39",
         "website": "http://www.restaurant-du-dauphin.com",
         "experience": "Confortable"
     },
@@ -4045,7 +4045,7 @@
         "adress": "37 Grande-Rue, Argoules, 80120, France",
         "price": "23-48EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 22 29 92 09",
+        "phone": "03 22 29 92 09",
         "experience": "Assez confortable"
     },
     {
@@ -4054,7 +4054,7 @@
         "adress": "Lieu-dit la Baquère, Préneron, 32190, France",
         "price": "18-59EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 62 06 42 75",
+        "phone": "05 62 06 42 75",
         "website": "http://www.aubergelabaquere.com",
         "experience": "Assez confortable"
     },
@@ -4064,7 +4064,7 @@
         "adress": "3 place de la Mairie, Gevrey-Chambertin, 21220, France",
         "price": "24-39EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 80 58 51 51",
+        "phone": "03 80 58 51 51",
         "website": "http://www.chez-guy.fr",
         "experience": "Confortable"
     },
@@ -4074,7 +4074,7 @@
         "adress": "20 rue de Monttessuy, Paris, 75007, France",
         "price": "34-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 47 05 14 20",
+        "phone": "01 47 05 14 20",
         "website": "http://www.restaurant20eiffel.fr",
         "experience": "Assez confortable"
     },
@@ -4084,7 +4084,7 @@
         "adress": "place des Frères-Caudron, Favières, 80120, France",
         "price": "27-53EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 22 27 88 00",
+        "phone": "03 22 27 88 00",
         "website": "http://www.restaurant-lacledeschamps.com",
         "experience": "Confortable"
     },
@@ -4094,7 +4094,7 @@
         "adress": "23  rue de la Bienfaisance, Les Herbiers, 85500, France",
         "price": "33-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 86 19 30 21",
+        "phone": "09 86 19 30 21",
         "website": "http://www.envers-du-decor.fr",
         "experience": "Confortable"
     },
@@ -4104,7 +4104,7 @@
         "adress": "30 Grande-Rue, La Bresse, 88250, France",
         "price": "21-66EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 29 25 41 97",
+        "phone": "03 29 25 41 97",
         "website": "http://www.la-table-dangele.com",
         "experience": "Assez confortable"
     },
@@ -4114,7 +4114,7 @@
         "adress": "49 route de Bergues, Coudekerque-Branche, 59210, France",
         "price": "28-51EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 3 28 64 66 00",
+        "phone": "03 28 64 66 00",
         "website": "http://www.restaurant-soubise.com",
         "experience": "ô                                    Très confortable. Nos établissements de charme."
     },
@@ -4124,7 +4124,7 @@
         "adress": "6 place de la République, Delme, 57590, France",
         "price": "14-70EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 3 87 01 30 18",
+        "phone": "03 87 01 30 18",
         "website": "http://www.ala12.fr",
         "experience": "Confortable"
     },
@@ -4134,7 +4134,7 @@
         "adress": "Hameau Les Petits-Cléments, Villars, 84400, France",
         "price": "33-50EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 75 45 18",
+        "phone": "04 90 75 45 18",
         "website": "http://www.latabledepablo.com",
         "experience": "Assez confortable"
     },
@@ -4144,7 +4144,7 @@
         "adress": "50 rue Nationale, Brebières, 62117, France",
         "price": "33-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 21 50 01 02",
+        "phone": "03 21 50 01 02",
         "website": "http://www.air-accueil-restaurant.com",
         "experience": "ô                                    Très confortable"
     },
@@ -4154,7 +4154,7 @@
         "adress": "2 rue du Fanget, Saint-Bonnet-le-Froid, 43290, France",
         "price": "32-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 71 65 63 62",
+        "phone": "04 71 65 63 62",
         "website": "http://www.regismarcon.fr",
         "experience": "Confortable"
     },
@@ -4164,7 +4164,7 @@
         "adress": "32 avenue de Choisy, Paris, 75013, France",
         "price": "20-50EUR",
         "type": "Cuisine chinoise",
-        "phone": "tel:+33 1 45 86 42 40",
+        "phone": "01 45 86 42 40",
         "experience": "Assez confortable"
     },
     {
@@ -4173,7 +4173,7 @@
         "adress": "123 place Balmat, Chamonix-Mont-Blanc, 74400, France",
         "price": "25-85EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 50 55 97 97",
+        "phone": "04 50 55 97 97",
         "website": "http://www.restaurant-atmosphere.com",
         "experience": "Confortable"
     },
@@ -4183,7 +4183,7 @@
         "adress": "51 boulevard Garibaldi, Paris, 75015, France",
         "price": "37-45EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 40 33 99 26",
+        "phone": "01 40 33 99 26",
         "website": "http://www.restaurantleradisbeurre.com",
         "experience": "Assez confortable"
     },
@@ -4193,7 +4193,7 @@
         "adress": "3 rue des Cerisiers, Saules, 25580, France",
         "price": "17-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 81 57 17 71",
+        "phone": "03 81 57 17 71",
         "website": "http://www.lagriotte.fr",
         "experience": "Assez confortable. Nos établissements de charme.",
         "maitre": true
@@ -4204,7 +4204,7 @@
         "adress": "6 rue de l'Orme, Saint-Malo, 35400, France",
         "price": "19-40EUR",
         "type": "Cuisine bretonne",
-        "phone": "tel:+33 2 99 56 96 08",
+        "phone": "02 99 56 96 08",
         "website": "http://www.breizhcafe.com",
         "experience": "Assez confortable"
     },
@@ -4214,7 +4214,7 @@
         "adress": "Boulevard de Lattre-de-Tassigny, Vichy, 03200, France",
         "price": "34-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 70 97 85 42",
+        "phone": "04 70 97 85 42",
         "website": "http://www.restaurantlarotonde-vichy.com",
         "experience": "Confortable"
     },
@@ -4224,7 +4224,7 @@
         "adress": "10 rue de Lodi, Saint-Étienne, 42000, France",
         "price": "20-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 77 32 34 34",
+        "phone": "04 77 32 34 34",
         "website": "http://www.insens-restaurant.fr",
         "experience": "Assez confortable"
     },
@@ -4234,7 +4234,7 @@
         "adress": "127 route de Mittelhausbergen, Strasbourg, 67200, France",
         "price": "25-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 88 22 52 16",
+        "phone": "03 88 22 52 16",
         "website": "http://www.restaurant-colbert.com",
         "experience": "Confortable"
     },
@@ -4244,7 +4244,7 @@
         "adress": "1 rue du 14-Juillet, Cognac, 16100, France",
         "price": "34-86EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 45 35 21 77",
+        "phone": "05 45 35 21 77",
         "website": "http://www.restaurant-lamaison-cognac.fr",
         "experience": "Confortable",
         "maitre": true
@@ -4255,7 +4255,7 @@
         "adress": "8 rue Adoue, Pau, 64000, France",
         "price": "20-48EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 83 97 58 58",
+        "phone": "09 83 97 58 58",
         "website": "http://www.restaurant-louesberit.com",
         "experience": "Assez confortable"
     },
@@ -4265,7 +4265,7 @@
         "adress": "109 boulevard Haussmann, Paris, 75008, France",
         "price": "37-64EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 42 65 65 83",
+        "phone": "01 42 65 65 83",
         "website": "http://www.pomze.com",
         "experience": "Confortable",
         "maitre": true
@@ -4276,7 +4276,7 @@
         "adress": "2 rue du Lac, Castéra-Verduzan, 32410, France",
         "price": "19-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 62 68 13 22",
+        "phone": "05 62 68 13 22",
         "website": "http://www.lefloridagascony.fr",
         "experience": "Confortable"
     },
@@ -4286,7 +4286,7 @@
         "adress": "45 boulevard Pierre-Brossolette, Laon, 02000, France",
         "price": "33-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 23 23 02 38",
+        "phone": "03 23 23 02 38",
         "website": "http://www.zorn-lapetiteauberge.com",
         "experience": "Confortable"
     },
@@ -4296,7 +4296,7 @@
         "adress": "24 cours Julien, Marseille, 13006, France",
         "price": "23-45EUR",
         "type": "Cuisine italienne",
-        "phone": "tel:+33 4 91 48 10 48",
+        "phone": "04 91 48 10 48",
         "website": "http://www.restaurantlacantinetta.fr",
         "experience": "Assez confortable"
     },
@@ -4306,7 +4306,7 @@
         "adress": "4 avenue du Général-de-Gaulle, La Turbie, 06320, France",
         "price": "30-45EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 93 28 52 79",
+        "phone": "04 93 28 52 79",
         "website": "http://www.hostellerie-jerome.com",
         "experience": "Assez confortable"
     },
@@ -4316,7 +4316,7 @@
         "adress": "Le Pin-au-Haras, 61310, France",
         "price": "32-49EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 33 35 57 69",
+        "phone": "02 33 35 57 69",
         "website": "http://www.lateteauloup.fr",
         "experience": "Confortable"
     },
@@ -4326,7 +4326,7 @@
         "adress": "7 rue Henri-Fouchard, Houlgate, 14510, France",
         "price": "27-87EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 24 84 37",
+        "phone": "02 31 24 84 37",
         "website": "http://www.eden-houlgate.com",
         "experience": "Confortable"
     },
@@ -4336,7 +4336,7 @@
         "adress": "79 rue de Port-Haliguen, Quiberon, 56170, France",
         "price": "34-57EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 97 50 17 67",
+        "phone": "02 97 50 17 67",
         "website": "http://www.restaurant-lachaumine.com",
         "experience": "Confortable"
     },
@@ -4346,7 +4346,7 @@
         "adress": "7 rue d'Empare, Castres, 81100, France",
         "price": "19-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 51 65 25",
+        "phone": "05 63 51 65 25",
         "experience": "Assez confortable"
     },
     {
@@ -4355,7 +4355,7 @@
         "adress": "16 rue du Château-d'Eau, Paris, 75010, France",
         "price": "19-40EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 77 32 77 61",
+        "phone": "01 77 32 77 61",
         "website": "http://www.lesresistants.fr",
         "experience": "Assez confortable"
     },
@@ -4365,7 +4365,7 @@
         "adress": "29 rue Belfort, Lyon, 69004, France",
         "price": "22-34EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 78 29 17 23",
+        "phone": "04 78 29 17 23",
         "website": "http://www.lecanutetlesgones.com",
         "experience": "Assez confortable"
     },
@@ -4375,7 +4375,7 @@
         "adress": "Le Bourg, Solignac-sous-Roche, 43130, France",
         "price": "13-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 71 65 21 54",
+        "phone": "04 71 65 21 54",
         "website": "http://www.auberge-loupinatou.fr",
         "experience": "Assez confortable"
     },
@@ -4385,7 +4385,7 @@
         "adress": "19 rue Paul-Doumer, Le Havre, 76600, France",
         "price": "25-44EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 35 45 44 60",
+        "phone": "02 35 45 44 60",
         "experience": "Assez confortable"
     },
     {
@@ -4394,7 +4394,7 @@
         "adress": "26 rue Auguste-Blanqui, Lorient, 56100, France",
         "price": "32-73EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 21 19 79",
+        "phone": "02 97 21 19 79",
         "website": "http://www.lesabayon.fr",
         "experience": "Confortable"
     },
@@ -4404,7 +4404,7 @@
         "adress": "135 rue St-Dominique, Paris, 75007, France",
         "price": "30-60EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 45 50 10 28",
+        "phone": "01 45 50 10 28",
         "experience": "Assez confortable"
     },
     {
@@ -4413,7 +4413,7 @@
         "adress": "26 Grande-Rue, Briançon, 05100, France",
         "price": "26-46EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 92 52 63 46",
+        "phone": "04 92 52 63 46",
         "website": "http://www.auplaisirambre.com",
         "experience": "Confortable"
     },
@@ -4423,7 +4423,7 @@
         "adress": "20 cours de la République, Roanne, 42300, France",
         "price": "24-33EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 77 67 72 72",
+        "phone": "04 77 67 72 72",
         "website": "http://www.troisgros.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -4433,7 +4433,7 @@
         "adress": "26 rue du Val-d'Or, Suresnes, 92150, France",
         "price": "29-38EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 41 47 87 61",
+        "phone": "01 41 47 87 61",
         "website": "http://www.restaurantlespetitsprinces.fr",
         "experience": "Assez confortable"
     },
@@ -4443,7 +4443,7 @@
         "adress": "3 rue Victor-Massé, Paris, 75009, France",
         "price": "38EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 48 78 55 60",
+        "phone": "01 48 78 55 60",
         "experience": "Assez confortable"
     },
     {
@@ -4452,7 +4452,7 @@
         "adress": "34 rue Chevreul, Lyon, 69007, France",
         "price": "24-32EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 6 03 36 42 75",
+        "phone": "06 03 36 42 75",
         "website": "http://www.lekitchencafe.com",
         "experience": "Assez confortable"
     },
@@ -4462,7 +4462,7 @@
         "adress": "96 avenue Emmanuel-Brousse, Font-Romeu, 66120, France",
         "price": "23-65EUR",
         "type": "Cuisine catalane",
-        "phone": "tel:+33 4 68 30 04 40",
+        "phone": "04 68 30 04 40",
         "website": "http://www.restaurantlachaumiere.fr",
         "experience": "Confortable"
     },
@@ -4472,7 +4472,7 @@
         "adress": "8 place du Docteur-Jean-Bernex, Évian-les-Bains, 74500, France",
         "price": "34-71EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 50 92 82 49",
+        "phone": "04 50 92 82 49",
         "website": "http://www.muratore-restaurant-evian.com",
         "experience": "Assez confortable"
     },
@@ -4482,7 +4482,7 @@
         "adress": "12 rue de la Mer, Plouider, 29260, France",
         "price": "28EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 98 25 40 54",
+        "phone": "02 98 25 40 54",
         "website": "http://lecomptoir.labutte.fr",
         "experience": "Assez confortable"
     },
@@ -4492,7 +4492,7 @@
         "adress": "7 place des Petites-Boucheries, Tours, 37000, France",
         "price": "31-63EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 61 93 82",
+        "phone": "02 47 61 93 82",
         "experience": "Assez confortable. Nos établissements de charme."
     },
     {
@@ -4501,7 +4501,7 @@
         "adress": "19 rue Marc-Antoine-Désaugiers, Fréjus, 83600, France",
         "price": "31-52EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 53 48 77",
+        "phone": "04 94 53 48 77",
         "website": "http://www.restaurant-lamandier-frejus.com",
         "experience": "Confortable"
     },
@@ -4511,7 +4511,7 @@
         "adress": "230 avenue du 2ème-Cuirassier, Gémenos, 13420, France",
         "price": "34-75EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 9 80 73 06 60",
+        "phone": "09 80 73 06 60",
         "website": "http://www.lesaromesgemenos.fr",
         "experience": "Confortable"
     },
@@ -4521,7 +4521,7 @@
         "adress": "79 rue Gilbert-Navard, Onzain, 41150, France",
         "price": "33-76EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 54 20 72 57",
+        "phone": "02 54 20 72 57",
         "website": "http://www.hautsdeloire.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -4531,7 +4531,7 @@
         "adress": "9 place Saint-Sauveur, Auray, 56400, France",
         "price": "24-60EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 2 97 56 37 30",
+        "phone": "02 97 56 37 30",
         "website": "http://www.restaurantleptitgo.wixsite.com/leptitgoustan",
         "experience": "Assez confortable"
     },
@@ -4541,7 +4541,7 @@
         "adress": "10 avenue du Général-Leclerc, Ouistreham, 14150, France",
         "price": "33-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 97 18 44",
+        "phone": "02 31 97 18 44",
         "website": "http://www.latabledhotes-caen.com",
         "experience": "Confortable"
     },
@@ -4551,7 +4551,7 @@
         "adress": "54 boulevard de la Tour-Maubourg, Paris, 75007, France",
         "price": "37-85EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 1 47 05 89 86",
+        "phone": "01 47 05 89 86",
         "website": "http://www.chezlesanges.com",
         "experience": "Confortable"
     },
@@ -4561,7 +4561,7 @@
         "adress": "25 rue Étienne-Dolet, Orléans, 45000, France",
         "price": "28EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 38 77 26 67",
+        "phone": "02 38 77 26 67",
         "experience": "Assez confortable"
     },
     {
@@ -4570,7 +4570,7 @@
         "adress": "20 rue Royale, Calais, 62100, France",
         "price": "23-63EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 21 34 11 20",
+        "phone": "03 21 34 11 20",
         "website": "http://www.histoire-ancienne.com",
         "experience": "Assez confortable",
         "maitre": true
@@ -4581,7 +4581,7 @@
         "adress": "16 allée du Mail, La Rochelle, 17000, France",
         "price": "26-57EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 46 34 12 52",
+        "phone": "05 46 34 12 52",
         "website": "http://www.restaurant-le-mail.com",
         "experience": "Assez confortable"
     },
@@ -4591,7 +4591,7 @@
         "adress": "Au village, Bessas, 07150, France",
         "price": "33-66EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 75 38 02 01",
+        "phone": "04 75 38 02 01",
         "website": "http://www.aubergedesgranges.com",
         "experience": "Assez confortable"
     },
@@ -4601,7 +4601,7 @@
         "adress": "126 allée Colombier, Anse, 69480, France",
         "price": "26-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 74 67 04 68",
+        "phone": "04 74 67 04 68",
         "website": "http://www.aucolombier.com",
         "experience": "Assez confortable",
         "maitre": true
@@ -4612,7 +4612,7 @@
         "adress": "38 rue Charles-de-Gaulle, Yerres, 91330, France",
         "price": "30EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 1 79 93 28 81",
+        "phone": "01 79 93 28 81",
         "website": "http://www.bird-restaurant.com",
         "experience": "Assez confortable"
     },
@@ -4622,7 +4622,7 @@
         "adress": "21 avenue Joseph-Clotis, Hyères, 83400, France",
         "price": "31-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 83 99 42 04",
+        "phone": "04 83 99 42 04",
         "experience": "Assez confortable",
         "maitre": true
     },
@@ -4632,7 +4632,7 @@
         "adress": "L'Auvère, Vire, 14500, France",
         "price": "33-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 68 07 71",
+        "phone": "02 31 68 07 71",
         "website": "http://www.manoirdelapommeraie.com",
         "experience": "Confortable"
     },
@@ -4642,7 +4642,7 @@
         "adress": "55 rue Principale, Natzwiller, 67130, France",
         "price": "27-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 88 97 02 42",
+        "phone": "03 88 97 02 42",
         "website": "http://www.hotel-aubergemetzger.com",
         "experience": "Confortable"
     },
@@ -4652,7 +4652,7 @@
         "adress": "31 rue Larcher, Bayeux, 14400, France",
         "price": "17-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 92 30 08",
+        "phone": "02 31 92 30 08",
         "experience": "Assez confortable"
     },
     {
@@ -4661,7 +4661,7 @@
         "adress": "2 place de l'Odéon, Paris, 75006, France",
         "price": "37-80EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 1 43 26 02 30",
+        "phone": "01 43 26 02 30",
         "website": "http://www.la-mediterranee.com",
         "experience": "Confortable"
     },
@@ -4671,7 +4671,7 @@
         "adress": "14 rue St-Léonard, Nantes, 44000, France",
         "price": "17-33EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 40 47 41 64",
+        "phone": "02 40 47 41 64",
         "website": "http://www.linstinctgourmand.com",
         "experience": "Assez confortable"
     },
@@ -4681,7 +4681,7 @@
         "adress": "3b place de la Gare, Écouviez, 55600, France",
         "price": "30-72EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 29 86 84 58",
+        "phone": "03 29 86 84 58",
         "website": "http://www.lesepicescuriens.com",
         "experience": "Assez confortable",
         "maitre": true
@@ -4692,7 +4692,7 @@
         "adress": "50 quai Michel-Féré, Le Havre, 76600, France",
         "price": "32-67EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 35 43 68 10",
+        "phone": "02 35 43 68 10",
         "website": "http://www.lemargote.fr",
         "experience": "Confortable"
     },
@@ -4702,7 +4702,7 @@
         "adress": "6 rue du Chambertin, Gevrey-Chambertin, 21220, France",
         "price": "28-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 80 34 33 20",
+        "phone": "03 80 34 33 20",
         "website": "http://www.thomascollomb.fr",
         "experience": "Assez confortable"
     },
@@ -4712,7 +4712,7 @@
         "adress": "3 place des Martyrs, Dunes, 82340, France",
         "price": "22-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 39 86 21",
+        "phone": "05 63 39 86 21",
         "experience": "Confortable"
     },
     {
@@ -4721,7 +4721,7 @@
         "adress": "39 avenue Edouard-Herriot, Brive-la-Gaillarde, 19100, France",
         "price": "33-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 74 97 53",
+        "phone": "05 55 74 97 53",
         "website": "http://www.encuisine.net",
         "experience": "Confortable"
     },
@@ -4731,7 +4731,7 @@
         "adress": "47 avenue Foch, Lyon, 69006, France",
         "price": "29-39EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 4 78 89 55 19",
+        "phone": "04 78 89 55 19",
         "website": "http://www.mrestaurant.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -4742,7 +4742,7 @@
         "adress": "56 cours du Maréchal Joffre, Dax, 40100, France",
         "price": "30-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 58 74 58 05",
+        "phone": "05 58 74 58 05",
         "experience": "Confortable"
     },
     {
@@ -4751,7 +4751,7 @@
         "adress": "rue du Pourtanel, Martel, 46600, France",
         "price": "32-54EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 37 40 56",
+        "phone": "05 65 37 40 56",
         "website": "http://www.relais-sainte-anne.com",
         "experience": "Confortable"
     },
@@ -4761,7 +4761,7 @@
         "adress": "5 rue d'Argenteuil, Paris, 75001, France",
         "price": "18-30EUR",
         "type": "Cuisine coréenne",
-        "phone": "tel:+33 1 42 86 11 85",
+        "phone": "01 42 86 11 85",
         "experience": "Assez confortable"
     },
     {
@@ -4770,7 +4770,7 @@
         "adress": "8 rue de la Paix, Laragne-Montéglin, 05300, France",
         "price": "33-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 92 65 13 39",
+        "phone": "04 92 65 13 39",
         "website": "http://www.laraignee-gourmande.fr",
         "experience": "Confortable"
     },
@@ -4780,7 +4780,7 @@
         "adress": "14 rue Dénoyez, Paris, 75020, France",
         "price": "25-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 9 83 02 72 02",
+        "phone": "09 83 02 72 02",
         "website": "http://www.legrandbainparis.com",
         "experience": "Assez confortable"
     },
@@ -4790,7 +4790,7 @@
         "adress": "23 rue de la Bancasse, Avignon, 84000, France",
         "price": "34-120EUR",
         "type": "Cuisine italienne",
-        "phone": "tel:+33 4 86 81 62 27",
+        "phone": "04 86 81 62 27",
         "experience": "Assez confortable"
     },
     {
@@ -4799,7 +4799,7 @@
         "adress": "18 avenue Maréchal-Leclerc, Pézenas, 34120, France",
         "price": "34-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 98 15 31",
+        "phone": "04 67 98 15 31",
         "website": "http://www.restaurant-leprestjean.fr",
         "experience": "Confortable"
     },
@@ -4809,7 +4809,7 @@
         "adress": "18 rue Porte-Lucas, Épernay, 51200, France",
         "price": "22-45EUR",
         "type": "Influences asiatiques",
-        "phone": "tel:+33 3 26 54 89 80",
+        "phone": "03 26 54 89 80",
         "experience": "Assez confortable"
     },
     {
@@ -4818,7 +4818,7 @@
         "adress": "180 rue Georges Mangin, Villefranche-sur-Saône, 69400, France",
         "price": "20-82EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 74 62 19 07",
+        "phone": "04 74 62 19 07",
         "website": "http://www.lafermedupoulet.com",
         "experience": "Confortable"
     },
@@ -4828,7 +4828,7 @@
         "adress": "Le Bourg, Pailherols, 15800, France",
         "price": "30-43EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 71 47 57 01",
+        "phone": "04 71 47 57 01",
         "website": "http://www.auberge-des-montagnes.com",
         "experience": "Confortable"
     },
@@ -4838,7 +4838,7 @@
         "adress": "5 rue des Petits-Hotels, Paris, 75010, France",
         "price": "25-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 44 79 03 98",
+        "phone": "01 44 79 03 98",
         "website": "http://www.mamagoto.fr",
         "experience": "Assez confortable"
     },
@@ -4848,7 +4848,7 @@
         "adress": "place du Champ-de-Foire, Montcenis, 71710, France",
         "price": "26-90EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 85 55 44 36",
+        "phone": "03 85 55 44 36",
         "experience": "Confortable"
     },
     {
@@ -4857,7 +4857,7 @@
         "adress": "39 Grand-Rue, Générac, 30510, France",
         "price": "33-37EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 66 02 03 93",
+        "phone": "04 66 02 03 93",
         "website": "http://www.instantdusud.fr",
         "experience": "Assez confortable"
     },
@@ -4867,7 +4867,7 @@
         "adress": "Route du Village, Rochetoirin, 38110, France",
         "price": "24-50EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 4 74 97 60 38",
+        "phone": "04 74 97 60 38",
         "website": "http://www.lerochetoirin.fr",
         "experience": "Confortable"
     },
@@ -4877,7 +4877,7 @@
         "adress": "29 rue Gemare, Caen, 14000, France",
         "price": "26-90EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 31 86 22 26",
+        "phone": "02 31 86 22 26",
         "website": "http://www.le-dauphin-normandie.fr",
         "experience": "ô                                    Très confortable",
         "maitre": true
@@ -4888,7 +4888,7 @@
         "adress": "163 rue du Général-de-Gaulle, Saint-Quirin, 57560, France",
         "price": "15-85EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 87 08 66 52",
+        "phone": "03 87 08 66 52",
         "website": "http://www.prieuresaintquirin.com",
         "experience": "Confortable"
     },
@@ -4898,7 +4898,7 @@
         "adress": "56 route de Draguignan, Montferrat, 83131, France",
         "price": "30-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 50 21 30",
+        "phone": "04 94 50 21 30",
         "website": "http://www.clospierrepont.com",
         "experience": "Confortable"
     },
@@ -4908,7 +4908,7 @@
         "adress": "56 rue de la Fédération, Paris, 75015, France",
         "price": "35EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 1 45 66 09 01",
+        "phone": "01 45 66 09 01",
         "website": "http://www.le-cassenoix.fr",
         "experience": "Assez confortable"
     },
@@ -4918,7 +4918,7 @@
         "adress": "44 route du Bouchet, Chamonix-Mont-Blanc, 74400, France",
         "price": "33-72EUR",
         "type": "Cuisine régionale",
-        "phone": "tel:+33 4 50 53 00 03",
+        "phone": "04 50 53 00 03",
         "website": "http://www.hameaualbert.fr",
         "experience": "Confortable. Nos établissements de charme.",
         "maitre": true
@@ -4929,7 +4929,7 @@
         "adress": "92 rue de la Gare, Niort, 79000, France",
         "price": "17-43EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 49 24 05 34",
+        "phone": "05 49 24 05 34",
         "website": "http://www.leptitrouquin.com",
         "experience": "Assez confortable"
     },
@@ -4939,7 +4939,7 @@
         "adress": "50 route des Vins, Blienschwiller, 67650, France",
         "price": "33-57EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 88 92 43 01",
+        "phone": "03 88 92 43 01",
         "experience": "Confortable"
     },
     {
@@ -4948,7 +4948,7 @@
         "adress": "6 rue du Lac, Rohan, 56580, France",
         "price": "18-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 97 38 91 86",
+        "phone": "02 97 38 91 86",
         "website": "http://www.leaudoust.fr",
         "experience": "Confortable"
     },
@@ -4958,7 +4958,7 @@
         "adress": "13 chemin des Capucins, Remiremont, 88200, France",
         "price": "31-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 29 62 08 04",
+        "phone": "03 29 62 08 04",
         "website": "http://www.leclosheurtebise.com",
         "experience": "Confortable"
     },
@@ -4968,7 +4968,7 @@
         "adress": "20 faubourg de Montbéliard, Belfort, 90000, France",
         "price": "23-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 84 28 04 60",
+        "phone": "03 84 28 04 60",
         "website": "http://www.hotellescapucins.com",
         "experience": "Confortable",
         "maitre": true
@@ -4979,7 +4979,7 @@
         "adress": "815 avenue Léopold-Fabre, Lans-en-Vercors, 38250, France",
         "price": "18-54EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 76 95 48 99",
+        "phone": "04 76 95 48 99",
         "experience": "Assez confortable"
     },
     {
@@ -4988,7 +4988,7 @@
         "adress": "22 route Gaschney, Muhlbach-sur-Munster, 68380, France",
         "price": "18-59EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 77 61 34",
+        "phone": "03 89 77 61 34",
         "website": "http://www.perledesvosges.net",
         "experience": "Confortable"
     },
@@ -4998,7 +4998,7 @@
         "adress": "35 Grande-Rue, Gundershoffen, 67110, France",
         "price": "33-68EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 88 72 96 43",
+        "phone": "03 88 72 96 43",
         "website": "http://www.aucygne.fr",
         "experience": "Confortable"
     },
@@ -5008,7 +5008,7 @@
         "adress": "7 rue St-Sauveur, Évreux, 27000, France",
         "price": "26-54EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 32 33 43 40",
+        "phone": "02 32 33 43 40",
         "experience": "Confortable"
     },
     {
@@ -5017,7 +5017,7 @@
         "adress": "3 rue Francoeur, Paris, 75018, France",
         "price": "24-45EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 9 80 96 93 60",
+        "phone": "09 80 96 93 60",
         "experience": "Assez confortable"
     },
     {
@@ -5026,7 +5026,7 @@
         "adress": "44 Avenue de la Gare, Martres-Tolosane, 31220, France",
         "price": "19-100EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 61 98 80 20",
+        "phone": "05 61 98 80 20",
         "website": "http://maisoncastet.eatbu.com",
         "experience": "Confortable"
     },
@@ -5036,7 +5036,7 @@
         "adress": "4 Rue Francisco Ferrer, Rivesaltes, 66600, France",
         "price": "29-34EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 68 34 35 77",
+        "phone": "04 68 34 35 77",
         "website": "http://www.latabledaime.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -5046,7 +5046,7 @@
         "adress": "56 Allées Fénelon, Cahors, 46000, France",
         "price": "27-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 35 65 69",
+        "phone": "05 65 35 65 69",
         "website": "http://www.loalabouche-restaurant.com",
         "experience": "Confortable"
     },
@@ -5056,7 +5056,7 @@
         "adress": "Le bourg, Montarcher, 42380, France",
         "price": "34-55EUR",
         "type": "Cuisine créative",
-        "phone": "tel:+33 4 77 50 00 08",
+        "phone": "04 77 50 00 08",
         "website": "http://www.leclosperche.fr",
         "experience": "Confortable"
     },
@@ -5066,7 +5066,7 @@
         "adress": "86 rue de Catusseau, Pomerol, 33500, France",
         "price": "21-61EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 57 84 40 40",
+        "phone": "05 57 84 40 40",
         "experience": "Assez confortable"
     },
     {
@@ -5075,7 +5075,7 @@
         "adress": "14 rue des Ailes, Parçay-Meslay, 37210, France",
         "price": "23-75EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 29 00 07",
+        "phone": "02 47 29 00 07",
         "website": "http://www.larchedemeslay.fr",
         "experience": "Confortable"
     },
@@ -5085,7 +5085,7 @@
         "adress": "616 chemin du Marais, Chonas-l'Amballan, 38121, France",
         "price": "30-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 74 58 83 28",
+        "phone": "04 74 58 83 28",
         "website": "http://www.domaine-de-clairefontaine.fr",
         "experience": "Assez confortable"
     },
@@ -5095,7 +5095,7 @@
         "adress": "Place du Marché, Saint-Julien-Chapteuil, 43260, France",
         "price": "31-80EUR",
         "type": "Cuisine du terroir",
-        "phone": "tel:+33 4 71 08 70 50",
+        "phone": "04 71 08 70 50",
         "website": "http://www.restaurant-vidal.com",
         "experience": "ô                                    Très confortable"
     },
@@ -5105,7 +5105,7 @@
         "adress": "impasse de l'Alouette - Portail du Thor, Châteauneuf-de-Gadagne, 84470, France",
         "price": "21-70EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 90 16 08 61",
+        "phone": "04 90 16 08 61",
         "website": "http://www.lamaisondecelou84.com",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -5115,7 +5115,7 @@
         "adress": "Place Notre-Dame, quartier de Caseblanche, Saint-Martin-de-Belleville, 73440, France",
         "price": "34-58EUR",
         "type": "Cuisine savoyarde",
-        "phone": "tel:+33 4 86 80 02 91",
+        "phone": "04 86 80 02 91",
         "website": "http://www.simple-meilleur.com",
         "experience": "Assez confortable"
     },
@@ -5125,7 +5125,7 @@
         "adress": "3 quai Jean-Jaurès, L'Isle-sur-la-Sorgue, 84800, France",
         "price": "20-54EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 4 90 95 27 85",
+        "phone": "04 90 95 27 85",
         "website": "http://www.balade-des-saveurs.com",
         "experience": "Confortable"
     },
@@ -5135,7 +5135,7 @@
         "adress": "4-5 place Cazeaux-Cazalet, Rions, 33410, France",
         "price": "18-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 56 27 43 31",
+        "phone": "05 56 27 43 31",
         "website": "http://www.lechaudrondanna.com",
         "experience": "Assez confortable"
     },
@@ -5145,7 +5145,7 @@
         "adress": "15 bis rue du Prieuré, Locronan, 29180, France",
         "price": "19-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 56 10 18 37",
+        "phone": "02 56 10 18 37",
         "experience": "Assez confortable",
         "maitre": true
     },
@@ -5155,7 +5155,7 @@
         "adress": "76 rue Laubaner, Roquefort, 40120, France",
         "price": "24-42EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 58 45 75 36",
+        "phone": "05 58 45 75 36",
         "website": "http://www.lestvincent.com",
         "experience": "Confortable"
     },
@@ -5165,7 +5165,7 @@
         "adress": "14 rue de Pomet, Toulon, 83000, France",
         "price": "30-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 94 92 98 21",
+        "phone": "04 94 92 98 21",
         "website": "http://www.carre2vigne.com",
         "experience": "Assez confortable"
     },
@@ -5175,7 +5175,7 @@
         "adress": "1 rue des Carrières, Castries, 34160, France",
         "price": "24-69EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 41 97 86",
+        "phone": "04 67 41 97 86",
         "website": "http://www.disini-hotel.com",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -5185,7 +5185,7 @@
         "adress": "1098 route de Lillers, Busnes, 62350, France",
         "price": "33-57EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 21 68 88 88",
+        "phone": "03 21 68 88 88",
         "website": "http://www.lejardindalice.fr",
         "experience": "Confortable. Nos établissements de charme."
     },
@@ -5195,7 +5195,7 @@
         "adress": "12 rue des Voisins, Salies-de-Béarn, 64270, France",
         "price": "33-47EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 59 38 01 79",
+        "phone": "05 59 38 01 79",
         "website": "http://www.restaurant-des-voisins.fr",
         "experience": "Confortable"
     },
@@ -5205,7 +5205,7 @@
         "adress": "Route de Crémonville, Saint-Étienne-du-Vauvray, 27430, France",
         "price": "31-50EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 32 59 14 22",
+        "phone": "02 32 59 14 22",
         "website": "http://www.restaurant-ferme-haute-cremonville.com",
         "experience": "Assez confortable"
     },
@@ -5215,7 +5215,7 @@
         "adress": "25 route de Parthenay, Saint-Jean-de-Thouars, 79100, France",
         "price": "20-47EUR",
         "type": "Cuisine classique",
-        "phone": "tel:+33 5 49 96 12 60",
+        "phone": "05 49 96 12 60",
         "website": "http://www.hotellerie-st-jean.com",
         "experience": "Confortable"
     },
@@ -5225,7 +5225,7 @@
         "adress": "37 rue Caisserie, Marseille, 13002, France",
         "price": "33-42EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 91 01 81 39",
+        "phone": "04 91 01 81 39",
         "experience": "Assez confortable"
     },
     {
@@ -5234,7 +5234,7 @@
         "adress": "2 boulevard Maréchal-Lyautey, La Rochelle, 17000, France",
         "price": "32-57EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 46 44 04 19",
+        "phone": "05 46 44 04 19",
         "experience": "Assez confortable"
     },
     {
@@ -5243,7 +5243,7 @@
         "adress": "12 rue Audra, Dijon, 21000, France",
         "price": "20-56EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 80 30 14 52",
+        "phone": "03 80 30 14 52",
         "website": "http://www.lessentiel-dijon.com",
         "experience": "Assez confortable"
     },
@@ -5253,7 +5253,7 @@
         "adress": "43 route de Roissy, Tremblay-en-France, 93290, France",
         "price": "33-58EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 48 60 69 90",
+        "phone": "01 48 60 69 90",
         "website": "http://www.aubergelajumentverte.fr",
         "experience": "Assez confortable"
     },
@@ -5263,7 +5263,7 @@
         "adress": "place de la Mairie, Boudes, 63340, France",
         "price": "24-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 96 55 66",
+        "phone": "04 73 96 55 66",
         "website": "http://www.leboudeslavigne.franceserv.com",
         "experience": "Confortable"
     },
@@ -5273,7 +5273,7 @@
         "adress": "Château de Haute-Serre, Cieurac, 46230, France",
         "price": "32-52EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 20 80 20",
+        "phone": "05 65 20 80 20",
         "website": "http://www.hauteserre.fr",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -5283,7 +5283,7 @@
         "adress": "Route Départementale 33, La Bussière-sur-Ouche, 21360, France",
         "price": "33-39EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 80 49 02 29",
+        "phone": "03 80 49 02 29",
         "website": "http://www.abbayedelabussiere.fr",
         "experience": "Assez confortable. Nos établissements de charme."
     },
@@ -5293,7 +5293,7 @@
         "adress": "96 rue Principale, Berrwiller, 68500, France",
         "price": "26-82EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 76 73 19",
+        "phone": "03 89 76 73 19",
         "website": "http://www.restaurant-koenig.com",
         "experience": "Confortable"
     },
@@ -5303,7 +5303,7 @@
         "adress": "2 rue de la République, Weyersheim, 67720, France",
         "price": "28-51EUR",
         "type": "Cuisine alsacienne",
-        "phone": "tel:+33 3 88 51 36 87",
+        "phone": "03 88 51 36 87",
         "website": "http://www.pontdelazorn.fr",
         "experience": "Assez confortable"
     },
@@ -5313,7 +5313,7 @@
         "adress": "Le Bourg, La Roque-Gageac, 24250, France",
         "price": "33-55EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 53 29 51 44",
+        "phone": "05 53 29 51 44",
         "website": "http://www.belleetoile.fr",
         "experience": "Confortable"
     },
@@ -5323,7 +5323,7 @@
         "adress": "4 rue de l'Exposition, Paris, 75007, France",
         "price": "28-65EUR",
         "type": "Cuisine basque",
-        "phone": "tel:+33 1 45 51 88 38",
+        "phone": "01 45 51 88 38",
         "website": "http://www.pottoka.fr",
         "experience": "Assez confortable"
     },
@@ -5333,7 +5333,7 @@
         "adress": "8 rue Montebello, Lectoure, 32700, France",
         "price": "21-75EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 5 62 68 95 13",
+        "phone": "05 62 68 95 13",
         "website": "http://aubergedesbouviers.eatbu.com",
         "experience": "Assez confortable"
     },
@@ -5343,7 +5343,7 @@
         "adress": "Rue de la Panneterie, Sancerre, 18300, France",
         "price": "23-65EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 48 54 13 30",
+        "phone": "02 48 54 13 30",
         "website": "http://lapommedor-sancerre.fr",
         "experience": "Assez confortable"
     },
@@ -5353,7 +5353,7 @@
         "adress": "10 avenue du Général-de-Gaulle, Ribeauvillé, 68150, France",
         "price": "17-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 3 89 73 64 52",
+        "phone": "03 89 73 64 52",
         "website": "http://www.restaurant-menetriers.com",
         "experience": "Confortable"
     },
@@ -5363,7 +5363,7 @@
         "adress": "16 rue Jean-Mermoz, Paris, 75008, France",
         "price": "33-48EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 1 45 63 65 26",
+        "phone": "01 45 63 65 26",
         "experience": "Assez confortable"
     },
     {
@@ -5372,7 +5372,7 @@
         "adress": "route de St-Nazaire, Saint-Lyphard, 44410, France",
         "price": "34-42EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 40 91 41 41",
+        "phone": "02 40 91 41 41",
         "website": "http://www.aubergelenezil.fr",
         "experience": "Assez confortable"
     },
@@ -5382,7 +5382,7 @@
         "adress": "Port-des-Salines, Le Grand-Village-Plage, 17370, France",
         "price": "33-44EUR",
         "type": "Poissons et fruits de mer",
-        "phone": "tel:+33 5 46 75 82 42",
+        "phone": "05 46 75 82 42",
         "website": "http://www.lerelaisdessalines.com",
         "experience": "Assez confortable"
     },
@@ -5392,7 +5392,7 @@
         "adress": "52  avenue de la Cèpe, La Tremblade, 17390, France",
         "price": "27-69EUR",
         "type": "Cuisine du marché",
-        "phone": "tel:+33 5 46 36 60 01",
+        "phone": "05 46 36 60 01",
         "experience": "Assez confortable"
     },
     {
@@ -5401,7 +5401,7 @@
         "adress": "55 quai des Maisons-Blanches, Saint-Cyr-sur-Loire, 37540, France",
         "price": "33-43EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 2 47 73 18 63",
+        "phone": "02 47 73 18 63",
         "experience": "Assez confortable"
     },
     {
@@ -5410,7 +5410,7 @@
         "adress": "12 route de Paris, Cherisy, 28500, France",
         "price": "31-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 37 43 70 08",
+        "phone": "02 37 43 70 08",
         "website": "http://www.le-vallon-de-cherisy.fr",
         "experience": "Confortable"
     },
@@ -5420,7 +5420,7 @@
         "adress": "28 avenue Georges-Alquier, Castres, 81100, France",
         "price": "30-48EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 63 35 78 42",
+        "phone": "05 63 35 78 42",
         "experience": "Confortable"
     },
     {
@@ -5429,7 +5429,7 @@
         "adress": "18 rue St-Adjutor, Clermont-Ferrand, 63000, France",
         "price": "15-52EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 37 83 86",
+        "phone": "04 73 37 83 86",
         "experience": "Assez confortable"
     },
     {
@@ -5438,7 +5438,7 @@
         "adress": "22 rue Desnouettes, Paris, 75015, France",
         "price": "38-49EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 45 33 22 22",
+        "phone": "01 45 33 22 22",
         "website": "http://www.restaurant-biscotte.com",
         "experience": "Assez confortable"
     },
@@ -5448,7 +5448,7 @@
         "adress": "19 rue du Palais-des-Guilhem, Montpellier, 34000, France",
         "price": "23-45EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 67 60 61 65",
+        "phone": "04 67 60 61 65",
         "experience": "Assez confortable"
     },
     {
@@ -5457,7 +5457,7 @@
         "adress": "25 rue La Bruyère, Paris, 75009, France",
         "price": "37-55EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 48 74 10 48",
+        "phone": "01 48 74 10 48",
         "website": "http://www.restaurantlescanailles.fr",
         "experience": "Assez confortable"
     },
@@ -5467,7 +5467,7 @@
         "adress": "boulevard Saint-Rodolphe-de-Turenne, Beaulieu-sur-Dordogne, 19120, France",
         "price": "16-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 55 28 63 60",
+        "phone": "05 55 28 63 60",
         "website": "http://www.leturenne.com",
         "experience": "Assez confortable"
     },
@@ -5477,7 +5477,7 @@
         "adress": "5 rue des Moines, Paris, 75017, France",
         "price": "24-65EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 42 28 89 53",
+        "phone": "01 42 28 89 53",
         "website": "http://www.comme-chez-maman.com",
         "experience": "Assez confortable"
     },
@@ -5487,7 +5487,7 @@
         "adress": "45 rue Jules-le-Grand, Lorient, 56100, France",
         "price": "22-70EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 2 97 84 71 92",
+        "phone": "02 97 84 71 92",
         "website": "http://www.restaurantalorient.com",
         "experience": "Confortable"
     },
@@ -5497,7 +5497,7 @@
         "adress": "10-12 rue des Archers, Clermont-Ferrand, 63000, France",
         "price": "20-60EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 73 90 44 02",
+        "phone": "04 73 90 44 02",
         "website": "http://www.restaurant-smorrebrod.com",
         "experience": "Assez confortable"
     },
@@ -5507,7 +5507,7 @@
         "adress": "17 rue Saint-Blaise, Paris, 75020, France",
         "price": "25-62EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 1 72 60 72 06",
+        "phone": "01 72 60 72 06",
         "experience": "Assez confortable"
     },
     {
@@ -5516,7 +5516,7 @@
         "adress": "7 boulevard Tour-de-Ville, Cajarc, 46160, France",
         "price": "32-36EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 5 65 33 71 40",
+        "phone": "05 65 33 71 40",
         "experience": "Assez confortable"
     },
     {
@@ -5525,7 +5525,7 @@
         "adress": "50 boulevard de la Promenade, Lagrasse, 11220, France",
         "price": "21-52EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 68 12 02 51",
+        "phone": "04 68 12 02 51",
         "website": "http://www.restaurant-bastion-lagrasse.fr",
         "experience": "Assez confortable",
         "maitre": true
@@ -5536,7 +5536,7 @@
         "adress": "10 rue Jean-Baptiste Champeil, Aurillac, 15000, France",
         "price": "34-80EUR",
         "type": "Cuisine moderne",
-        "phone": "tel:+33 4 71 64 85 38",
+        "phone": "04 71 64 85 38",
         "website": "http://www.quatresaisons.onlc.fr",
         "experience": "Assez confortable"
     },
@@ -5546,7 +5546,7 @@
         "adress": "2 Grande-Rue, Combeaufontaine, 70120, France",
         "price": "30-74EUR",
         "type": "Cuisine traditionnelle",
-        "phone": "tel:+33 3 84 92 11 13",
+        "phone": "03 84 92 11 13",
         "website": "http://www.le-balcon-70.fr",
         "experience": "Confortable"
     }
